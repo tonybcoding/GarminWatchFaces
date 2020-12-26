@@ -1,0 +1,10 @@
+<resources>
+    <fonts>
+        <font id="proan_font" filename="fonts/proan_font.fnt" filter="0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ|% .:+-,()" />
+        <font id="proan_digital_font" filename="fonts/proan_digital_font.fnt" filter=" ,.0123456789:abcdefghijklmnopqrstuvwxyz" />
+        <font id="proan_digitalsmall_font" filename="fonts/proan_digitalsmall_font.fnt" filter="0123456789-+ ,.%" />
+        <font id="proan_digitalsmall_nonmono_font" filename="fonts/proan_digitalsmall_nonmono_font.fnt"/>        
+        <font id="proan_num_font" filename="fonts/proan_num_font.fnt" filter="12369" />        
+        <font id="proan_num2_font" filename="fonts/proan_num2_font.fnt" filter="12369" />         
+    </fonts>
+</resources>

@@ -1,0 +1,755 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="60" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="61" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="62" pc="268435478" symbol="initialize"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="72" pc="268435489" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="75" pc="268435493" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="76" pc="268435502" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="77" pc="268435527" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="78" pc="268435552" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="80" pc="268435574" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="81" pc="268435591" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="83" pc="268435637" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="85" pc="268435680" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="86" pc="268435723" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="87" pc="268435766" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="88" pc="268435809" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="96" pc="268435852" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="110" pc="268435933" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="113" pc="268435937" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="116" pc="268435947" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="117" pc="268435959" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="118" pc="268435968" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="121" pc="268435987" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="122" pc="268436024" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="123" pc="268436061" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="124" pc="268436098" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="126" pc="268436141" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="130" pc="268436295" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="131" pc="268436315" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="132" pc="268436335" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="133" pc="268436355" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="134" pc="268436375" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="135" pc="268436395" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="136" pc="268436415" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="137" pc="268436435" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="138" pc="268436455" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="139" pc="268436475" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="140" pc="268436495" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="141" pc="268436515" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="142" pc="268436535" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="143" pc="268436551" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="144" pc="268436567" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="148" pc="268436570" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="149" pc="268436590" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="150" pc="268436610" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="151" pc="268436630" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="152" pc="268436650" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="153" pc="268436670" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="154" pc="268436690" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="155" pc="268436710" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="156" pc="268436730" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="157" pc="268436750" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="158" pc="268436770" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="159" pc="268436790" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="160" pc="268436810" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="161" pc="268436826" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="162" pc="268436842" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="166" pc="268436845" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="167" pc="268436865" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="168" pc="268436885" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="169" pc="268436905" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="170" pc="268436925" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="171" pc="268436945" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="172" pc="268436965" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="173" pc="268436985" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="174" pc="268437005" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="175" pc="268437025" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="176" pc="268437045" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="177" pc="268437065" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="178" pc="268437085" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="179" pc="268437101" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="180" pc="268437117" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="184" pc="268437120" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="185" pc="268437140" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="186" pc="268437160" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="187" pc="268437180" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="188" pc="268437200" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="189" pc="268437220" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="190" pc="268437240" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="191" pc="268437260" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="192" pc="268437280" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="193" pc="268437300" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="194" pc="268437320" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="195" pc="268437340" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="196" pc="268437360" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="197" pc="268437376" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="198" pc="268437392" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="202" pc="268437395" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="203" pc="268437415" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="204" pc="268437435" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="205" pc="268437455" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="206" pc="268437475" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="207" pc="268437495" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="208" pc="268437515" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="209" pc="268437535" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="210" pc="268437555" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="211" pc="268437575" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="212" pc="268437595" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="213" pc="268437615" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="214" pc="268437635" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="215" pc="268437651" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="216" pc="268437667" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="220" pc="268437670" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="221" pc="268437690" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="222" pc="268437710" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="223" pc="268437730" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="224" pc="268437750" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="225" pc="268437770" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="226" pc="268437790" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="227" pc="268437810" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="228" pc="268437830" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="229" pc="268437850" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="230" pc="268437870" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="231" pc="268437890" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="232" pc="268437910" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="233" pc="268437926" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="234" pc="268437942" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="238" pc="268437945" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="239" pc="268437965" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="240" pc="268437985" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="241" pc="268438005" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="242" pc="268438025" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="243" pc="268438045" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="244" pc="268438065" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="245" pc="268438085" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="246" pc="268438105" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="247" pc="268438125" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="248" pc="268438145" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="249" pc="268438165" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="250" pc="268438185" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="251" pc="268438205" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="252" pc="268438225" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="259" pc="268438228" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="260" pc="268438245" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="261" pc="268438262" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="262" pc="268438272" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="263" pc="268438282" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="264" pc="268438305" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="267" pc="268438308" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="268" pc="268438318" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="269" pc="268438341" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="277" pc="268438385" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="278" pc="268438413" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="282" pc="268438425" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="283" pc="268438442" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="284" pc="268438470" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="285" pc="268438512" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="286" pc="268438529" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="287" pc="268438557" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="290" pc="268438599" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="296" pc="268438613" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="297" pc="268438629" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="298" pc="268438645" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="299" pc="268438670" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="300" pc="268438697" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="301" pc="268438725" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="302" pc="268438781" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="303" pc="268438809" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="304" pc="268438853" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="307" pc="268438883" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="308" pc="268438911" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="309" pc="268438983" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="310" pc="268439061" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="313" pc="268439173" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="314" pc="268439209" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="315" pc="268439239" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="316" pc="268439266" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="317" pc="268439298" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="318" pc="268439316" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="319" pc="268439348" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="320" pc="268439365" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="321" pc="268439383" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="322" pc="268439415" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="323" pc="268439447" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="329" pc="268439464" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="332" pc="268439482" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="339" pc="268439512" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="342" pc="268439526" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="355" pc="268439537" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="359" pc="268439541" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="360" pc="268439560" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="365" pc="268439585" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="366" pc="268439597" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="370" pc="268439630" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="371" pc="268439647" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="372" pc="268439657" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="375" pc="268439686" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="376" pc="268439708" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="377" pc="268439724" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="378" pc="268439743" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="379" pc="268439750" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="380" pc="268439906" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="383" pc="268440062" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="384" pc="268440105" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="387" pc="268440148" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="388" pc="268440169" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="389" pc="268440218" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="390" pc="268440267" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="392" pc="268440323" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="393" pc="268440351" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="394" pc="268440365" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="395" pc="268440393" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="397" pc="268440407" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="398" pc="268440435" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="411" pc="268440469" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="413" pc="268440473" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="414" pc="268440490" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="415" pc="268440500" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="416" pc="268440510" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="417" pc="268440520" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="418" pc="268440537" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="419" pc="268440587" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="420" pc="268440616" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="421" pc="268440678" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="422" pc="268440706" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="423" pc="268440709" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="424" pc="268440712" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="427" pc="268440715" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="428" pc="268440743" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="429" pc="268440766" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="430" pc="268440783" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="431" pc="268440793" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="432" pc="268440829" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="434" pc="268440842" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="435" pc="268440852" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="436" pc="268440888" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="439" pc="268440898" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="534" pc="268441024" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="535" pc="268441071" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="445" pc="268441077" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="446" pc="268441090" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="448" pc="268441103" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="449" pc="268441114" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="450" pc="268441127" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="451" pc="268441138" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="453" pc="268441151" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="454" pc="268441164" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="455" pc="268441177" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="456" pc="268441212" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="457" pc="268441247" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="458" pc="268441270" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="459" pc="268441293" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="460" pc="268441343" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="461" pc="268441399" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="462" pc="268441452" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="463" pc="268441514" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="469" pc="268441517" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="470" pc="268441555" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="471" pc="268441596" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="472" pc="268441637" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="473" pc="268441695" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="474" pc="268441765" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="480" pc="268441768" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="481" pc="268441778" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="482" pc="268441815" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="483" pc="268441856" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="484" pc="268441897" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="485" pc="268441941" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="486" pc="268441952" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="488" pc="268442008" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="490" pc="268442078" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="496" pc="268442081" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="497" pc="268442091" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="498" pc="268442128" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="499" pc="268442169" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="500" pc="268442210" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="501" pc="268442254" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="502" pc="268442265" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="504" pc="268442321" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="506" pc="268442391" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="512" pc="268442394" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="513" pc="268442464" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="514" pc="268442526" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="520" pc="268442529" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="521" pc="268442552" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="522" pc="268442559" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="524" pc="268442569" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="525" pc="268442610" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="526" pc="268442651" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="527" pc="268442695" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="528" pc="268442753" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="548" pc="268442760" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="550" pc="268442764" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="551" pc="268442780" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="552" pc="268442790" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="553" pc="268442812" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="554" pc="268442819" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="555" pc="268442822" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="556" pc="268442825" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="557" pc="268442828" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="559" pc="268442831" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="561" pc="268443021" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="563" pc="268443211" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="565" pc="268443419" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="567" pc="268443627" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="570" pc="268443715" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="571" pc="268443733" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="572" pc="268443743" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="573" pc="268443766" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="574" pc="268443783" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="575" pc="268443808" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="576" pc="268443819" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="578" pc="268443840" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="580" pc="268443861" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="581" pc="268443878" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="583" pc="268443899" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="586" pc="268443920" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="587" pc="268443948" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="588" pc="268443986" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="589" pc="268444024" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="590" pc="268444070" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="591" pc="268444116" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="592" pc="268444162" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="593" pc="268444208" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="594" pc="268444225" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="595" pc="268444245" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="603" pc="268444276" symbol="tickDisp"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="604" pc="268444280" symbol="tickDisp"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="606" pc="268444283" symbol="tickDisp"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="607" pc="268444326" symbol="tickDisp"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="608" pc="268444354" symbol="tickDisp"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="609" pc="268444371" symbol="tickDisp"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="611" pc="268444387" symbol="tickDisp"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="612" pc="268444430" symbol="tickDisp"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="613" pc="268444447" symbol="tickDisp"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="614" pc="268444475" symbol="tickDisp"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="625" pc="268444490" symbol="drawHands"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="628" pc="268444494" symbol="drawHands"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="629" pc="268444510" symbol="drawHands"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="630" pc="268444526" symbol="drawHands"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="631" pc="268444542" symbol="drawHands"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="632" pc="268444561" symbol="drawHands"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="633" pc="268444580" symbol="drawHands"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="634" pc="268444599" symbol="drawHands"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="641" pc="268444615" symbol="drawHands"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="643" pc="268444962" symbol="drawHands"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="644" pc="268445154" symbol="drawHands"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="648" pc="268445346" symbol="drawHands"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="655" pc="268445362" symbol="drawHands"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="657" pc="268445709" symbol="drawHands"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="658" pc="268445901" symbol="drawHands"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="662" pc="268446093" symbol="drawHands"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="663" pc="268446136" symbol="drawHands"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="664" pc="268446179" symbol="drawHands"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="665" pc="268446222" symbol="drawHands"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="666" pc="268446265" symbol="drawHands"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="667" pc="268446308" symbol="drawHands"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="672" pc="268446351" symbol="drawHands"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="673" pc="268446379" symbol="drawHands"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="677" pc="268446393" symbol="drawHands"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="678" pc="268446421" symbol="drawHands"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="679" pc="268446435" symbol="drawHands"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="680" pc="268446463" symbol="drawHands"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="684" pc="268446477" symbol="drawHands"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="685" pc="268446505" symbol="drawHands"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="689" pc="268446519" symbol="drawHands"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="690" pc="268446547" symbol="drawHands"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="691" pc="268446561" symbol="drawHands"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="692" pc="268446589" symbol="drawHands"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="695" pc="268446603" symbol="drawHands"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="696" pc="268446631" symbol="drawHands"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="697" pc="268446673" symbol="drawHands"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="698" pc="268446701" symbol="drawHands"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="710" pc="268446744" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="711" pc="268446748" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="712" pc="268446782" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="713" pc="268446816" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="714" pc="268446840" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="715" pc="268446863" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="717" pc="268446885" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="718" pc="268446908" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="720" pc="268446930" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="721" pc="268446953" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="723" pc="268446975" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="724" pc="268446998" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="727" pc="268447033" symbol="getBoundingBox"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="740" pc="268447061" symbol="generateCoords"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="741" pc="268447065" symbol="generateCoords"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="742" pc="268447103" symbol="generateCoords"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="744" pc="268447141" symbol="generateCoords"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="745" pc="268447155" symbol="generateCoords"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="748" pc="268447179" symbol="generateCoords"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="750" pc="268447234" symbol="generateCoords"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="751" pc="268447268" symbol="generateCoords"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="753" pc="268447302" symbol="generateCoords"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="754" pc="268447315" symbol="generateCoords"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="757" pc="268447341" symbol="generateCoords"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="767" pc="268447345" symbol="drawPolyOutline"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="770" pc="268447349" symbol="drawPolyOutline"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="771" pc="268447379" symbol="drawPolyOutline"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="803" pc="268447461" symbol="onShow"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="809" pc="268447466" symbol="onHide"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="812" pc="268447471" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="813" pc="268447475" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="814" pc="268447485" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="819" pc="268447502" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="820" pc="268447506" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="832" pc="268447517" symbol="onPowerBudgetExceeded"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="833" pc="268447521" symbol="onPowerBudgetExceeded"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="834" pc="268447553" symbol="onPowerBudgetExceeded"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutView.mc" lineNum="835" pc="268447585" symbol="onPowerBudgetExceeded"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutApp.mc" lineNum="6" pc="268447597" symbol="initialize"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutApp.mc" lineNum="7" pc="268447601" symbol="initialize"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutApp.mc" lineNum="11" pc="268447620" symbol="onStart"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutApp.mc" lineNum="15" pc="268447625" symbol="onStop"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutApp.mc" lineNum="21" pc="268447630" symbol="onSettingsChanged"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutApp.mc" lineNum="22" pc="268447634" symbol="onSettingsChanged"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutApp.mc" lineNum="26" pc="268447651" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutApp.mc" lineNum="27" pc="268447655" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutApp.mc" lineNum="28" pc="268447678" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\AdventurerScout\\.\\source\\AdventurerScoutApp.mc" lineNum="30" pc="268447748" symbol="getInitialView"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="29" symbol="theme4_title"/>
+<entry field="true" id="53" symbol="c_digitalText"/>
+<entry field="true" id="28" symbol="theme3_title"/>
+<entry id="10" object="true" symbol="AdventurerScoutView"/>
+<entry id="11" object="true" symbol="AdventurerScoutDelegate"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8390097" method="true" symbol="onPartialUpdate"/>
+<entry field="true" id="63" symbol="c_mainoutline"/>
+<entry id="8388631" module="true" symbol="Activity"/>
+<entry field="true" id="36" symbol="cal_title"/>
+<entry field="true" id="21" symbol="name_font"/>
+<entry field="true" id="61" symbol="c_trans"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388645" module="true" symbol="Time"/>
+<entry field="true" id="40" symbol="offscreenBuffer"/>
+<entry id="73" method="true" symbol="drawHands"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry field="true" id="58" symbol="c_second"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8390098" method="true" symbol="onPowerBudgetExceeded"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry field="true" id="45" symbol="appStore_calorieGoal"/>
+<entry id="71" method="true" symbol="drawTicks"/>
+<entry field="true" id="26" symbol="theme7_title"/>
+<entry field="true" id="34" symbol="theme6_title"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry field="true" id="32" symbol="theme5_title"/>
+<entry field="true" id="49" symbol="mid_y"/>
+<entry field="true" id="48" symbol="mid_x"/>
+<entry field="true" id="16" symbol="digital_font"/>
+<entry field="true" id="18" symbol="digitalsmall_font"/>
+<entry id="75" method="true" symbol="generateCoords"/>
+<entry id="74" method="true" symbol="getBoundingBox"/>
+<entry id="72" method="true" symbol="tickDisp"/>
+<entry id="8390095" object="true" symbol="WatchFaceDelegate"/>
+<entry field="true" id="55" symbol="c_line"/>
+<entry field="true" id="24" symbol="step_title"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="54" symbol="c_screen"/>
+<entry field="true" id="31" symbol="AppName"/>
+<entry field="true" id="68" symbol="logoDateFont"/>
+<entry id="12" object="true" symbol="AdventurerScoutApp"/>
+<entry field="true" id="62" symbol="c_minor"/>
+<entry field="true" id="46" symbol="appStore_timeoffset"/>
+<entry field="true" id="38" symbol="altitude_title"/>
+<entry id="8388641" module="true" symbol="Math"/>
+<entry field="true" id="15" symbol="LauncherIcon"/>
+<entry field="true" id="51" symbol="c_digitalBG"/>
+<entry id="8388646" module="true" object="true" symbol="Timer"/>
+<entry id="8389683" method="true" symbol="onSettingsChanged"/>
+<entry field="true" id="64" symbol="c_minoutline"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="60" symbol="c_arbor"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="56" symbol="c_fill"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="65" symbol="digitalFont"/>
+<entry field="true" id="19" symbol="logo_font"/>
+<entry field="true" id="59" symbol="c_secondTip"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry field="true" id="27" symbol="heartrate_title"/>
+<entry field="true" id="44" symbol="appStore_theme"/>
+<entry field="true" id="43" symbol="isAwake"/>
+<entry field="true" id="17" symbol="digital5S_font"/>
+<entry field="true" id="22" symbol="timeoffset_title"/>
+<entry field="true" id="8389067" symbol="height"/>
+<entry field="true" id="23" symbol="theme2_title"/>
+<entry field="true" id="35" symbol="theme1_title"/>
+<entry field="true" id="67" symbol="logoFont"/>
+<entry id="76" method="true" symbol="drawPolyOutline"/>
+<entry id="14" module="true" symbol="Layouts"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry field="true" id="69" symbol="nameFont"/>
+<entry field="true" id="42" symbol="fullScreenRefresh"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry field="true" id="52" symbol="c_digitalBorder"/>
+<entry field="true" id="66" symbol="digitalSmallFont"/>
+<entry field="true" id="39" symbol="battdate_title"/>
+<entry field="true" id="8389066" symbol="width"/>
+<entry id="70" method="true" symbol="displayStats"/>
+<entry field="true" id="41" symbol="curClip"/>
+<entry field="true" id="50" symbol="SCALE"/>
+<entry field="true" id="25" symbol="digital_title"/>
+<entry field="true" id="57" symbol="c_text"/>
+<entry id="13" module="true" symbol="Menus"/>
+<entry field="true" id="20" symbol="logodate_font"/>
+<entry field="true" id="47" symbol="appStore_bottomDigi"/>
+<entry field="true" id="37" symbol="theme_title"/>
+<entry field="true" id="30" symbol="cals_title"/>
+<entry field="true" id="9" symbol="partialUpdatesAllowed"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="8388633" module="true" symbol="ActivityMonitor"/>
+<entry field="true" id="33" symbol="time_title"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435933" name="dc" stackId="1" startPc="268435489"/>
+<entry endPc="268439536" name="logoY" stackId="18" startPc="268435937"/>
+<entry endPc="268439536" name="h_fraction" stackId="10" startPc="268435937"/>
+<entry endPc="268439536" name="logoX" stackId="17" startPc="268435937"/>
+<entry endPc="268439536" name="now" stackId="4" startPc="268435937"/>
+<entry endPc="268439536" name="h_angle" stackId="12" startPc="268435937"/>
+<entry endPc="268439536" name="xStart" stackId="13" startPc="268435937"/>
+<entry endPc="268439536" name="hour" stackId="5" startPc="268435937"/>
+<entry endPc="268439536" name="yStart" stackId="14" startPc="268435937"/>
+<entry endPc="268439536" name="x" stackId="9" startPc="268435937"/>
+<entry endPc="268439536" name="timer" stackId="3" startPc="268435937"/>
+<entry endPc="268439536" name="targetDc" stackId="2" startPc="268435937"/>
+<entry endPc="268439536" name="battery" stackId="7" startPc="268435937"/>
+<entry endPc="268439536" name="height" stackId="16" startPc="268435937"/>
+<entry endPc="268439536" name="minute" stackId="6" startPc="268435937"/>
+<entry endPc="268439536" name="n" stackId="8" startPc="268435937"/>
+<entry endPc="268439536" name="len" stackId="15" startPc="268435937"/>
+<entry endPc="268439536" name="m_angle" stackId="11" startPc="268435937"/>
+<entry endPc="268439536" name="logoRadius" stackId="19" startPc="268435937"/>
+<entry endPc="268439537" name="dc" stackId="1" startPc="268435933"/>
+<entry endPc="268440468" name="x2" stackId="9" startPc="268439541"/>
+<entry endPc="268440468" name="timer" stackId="2" startPc="268439541"/>
+<entry endPc="268440468" name="now" stackId="4" startPc="268439541"/>
+<entry endPc="268440468" name="x1" stackId="8" startPc="268439541"/>
+<entry endPc="268440468" name="x0" stackId="7" startPc="268439541"/>
+<entry endPc="268440468" name="second" stackId="5" startPc="268439541"/>
+<entry endPc="268440468" name="secHandX" stackId="13" startPc="268439541"/>
+<entry endPc="268440468" name="secHandDef" stackId="11" startPc="268439541"/>
+<entry endPc="268440468" name="battery" stackId="3" startPc="268439541"/>
+<entry endPc="268440468" name="secAngle" stackId="6" startPc="268439541"/>
+<entry endPc="268440468" name="yOff" stackId="10" startPc="268439541"/>
+<entry endPc="268440468" name="bboxWidth" stackId="15" startPc="268439541"/>
+<entry endPc="268440468" name="secTipX" stackId="14" startPc="268439541"/>
+<entry endPc="268440468" name="bboxHeight" stackId="16" startPc="268439541"/>
+<entry endPc="268440468" name="secTipDef" stackId="12" startPc="268439541"/>
+<entry endPc="268440469" name="dc" stackId="1" startPc="268439537"/>
+<entry endPc="268442759" name="altitude" stackId="25" startPc="268440900"/>
+<entry endPc="268442759" name="offsetHour" stackId="22" startPc="268440900"/>
+<entry endPc="268442759" name="stringHr" stackId="23" startPc="268440900"/>
+<entry endPc="268442759" name="steps" stackId="26" startPc="268440900"/>
+<entry endPc="268442759" name="heartRate" stackId="28" startPc="268440900"/>
+<entry endPc="268442759" name="stringMin" stackId="24" startPc="268440900"/>
+<entry endPc="268442759" name="stringSec" stackId="21" startPc="268440900"/>
+<entry endPc="268442759" name="cals" stackId="27" startPc="268440900"/>
+<entry endPc="268442759" name="toGoal" stackId="18" startPc="268440473"/>
+<entry endPc="268442759" name="xEnd" stackId="15" startPc="268440473"/>
+<entry endPc="268442759" name="now" stackId="7" startPc="268440473"/>
+<entry endPc="268442759" name="second" stackId="10" startPc="268440473"/>
+<entry endPc="268442759" name="labely" stackId="16" startPc="268440473"/>
+<entry endPc="268442759" name="dayOfWeek" stackId="13" startPc="268440473"/>
+<entry endPc="268442759" name="minute" stackId="9" startPc="268440473"/>
+<entry endPc="268442759" name="hour" stackId="8" startPc="268440473"/>
+<entry endPc="268442759" name="actInfo" stackId="11" startPc="268440473"/>
+<entry endPc="268442759" name="n2" stackId="20" startPc="268440473"/>
+<entry endPc="268442759" name="labely2" stackId="17" startPc="268440473"/>
+<entry endPc="268442759" name="n1" stackId="19" startPc="268440473"/>
+<entry endPc="268442759" name="day" stackId="14" startPc="268440473"/>
+<entry endPc="268442759" name="dateString" stackId="12" startPc="268440473"/>
+<entry endPc="268442760" name="battery" stackId="5" startPc="268440469"/>
+<entry endPc="268442760" name="x" stackId="3" startPc="268440469"/>
+<entry endPc="268442760" name="dc" stackId="1" startPc="268440469"/>
+<entry endPc="268442760" name="index" stackId="2" startPc="268440469"/>
+<entry endPc="268442760" name="timer" stackId="6" startPc="268440469"/>
+<entry endPc="268442760" name="y" stackId="4" startPc="268440469"/>
+<entry endPc="268444275" name="n" stackId="20" startPc="268443733"/>
+<entry endPc="268444275" name="sin" stackId="9" startPc="268442764"/>
+<entry endPc="268444275" name="tick4def" stackId="18" startPc="268442764"/>
+<entry endPc="268444275" name="cos" stackId="10" startPc="268442764"/>
+<entry endPc="268444275" name="y2" stackId="14" startPc="268442764"/>
+<entry endPc="268444275" name="y1" stackId="12" startPc="268442764"/>
+<entry endPc="268444275" name="tick5def" stackId="19" startPc="268442764"/>
+<entry endPc="268444275" name="yOff" stackId="5" startPc="268442764"/>
+<entry endPc="268444275" name="tickX" stackId="8" startPc="268442764"/>
+<entry endPc="268444275" name="tickMid" stackId="4" startPc="268442764"/>
+<entry endPc="268444275" name="tick2def" stackId="16" startPc="268442764"/>
+<entry endPc="268444275" name="tick" stackId="6" startPc="268442764"/>
+<entry endPc="268444275" name="x2" stackId="13" startPc="268442764"/>
+<entry endPc="268444275" name="x1" stackId="11" startPc="268442764"/>
+<entry endPc="268444275" name="tickEnd" stackId="2" startPc="268442764"/>
+<entry endPc="268444275" name="tick3def" stackId="17" startPc="268442764"/>
+<entry endPc="268444275" name="tickdef" stackId="15" startPc="268442764"/>
+<entry endPc="268444275" name="t_angle" stackId="7" startPc="268442764"/>
+<entry endPc="268444275" name="tickStart" stackId="3" startPc="268442764"/>
+<entry endPc="268444276" name="dc" stackId="1" startPc="268442760"/>
+<entry endPc="268444489" name="tickX" stackId="4" startPc="268444280"/>
+<entry endPc="268444490" name="dc" stackId="1" startPc="268444276"/>
+<entry endPc="268444490" name="t_angle" stackId="2" startPc="268444276"/>
+<entry endPc="268444490" name="tickdef" stackId="3" startPc="268444276"/>
+<entry endPc="268446743" name="y2" stackId="5" startPc="268444494"/>
+<entry endPc="268446743" name="y1" stackId="4" startPc="268444494"/>
+<entry endPc="268446743" name="minTopInset" stackId="12" startPc="268444494"/>
+<entry endPc="268446743" name="minBotInset" stackId="13" startPc="268444494"/>
+<entry endPc="268446743" name="hrTopInset" stackId="15" startPc="268444494"/>
+<entry endPc="268446743" name="minDef" stackId="11" startPc="268444494"/>
+<entry endPc="268446743" name="hrBotInset" stackId="16" startPc="268444494"/>
+<entry endPc="268446743" name="hrTopInX" stackId="21" startPc="268444494"/>
+<entry endPc="268446743" name="minBotInX" stackId="20" startPc="268444494"/>
+<entry endPc="268446743" name="hrX" stackId="18" startPc="268444494"/>
+<entry endPc="268446743" name="minTopInX" stackId="19" startPc="268444494"/>
+<entry endPc="268446743" name="hrBotInX" stackId="22" startPc="268444494"/>
+<entry endPc="268446743" name="x5" stackId="9" startPc="268444494"/>
+<entry endPc="268446743" name="x4" stackId="8" startPc="268444494"/>
+<entry endPc="268446743" name="x3" stackId="7" startPc="268444494"/>
+<entry endPc="268446743" name="len" stackId="10" startPc="268444494"/>
+<entry endPc="268446743" name="x2" stackId="6" startPc="268444494"/>
+<entry endPc="268446743" name="minX" stackId="17" startPc="268444494"/>
+<entry endPc="268446743" name="hrDef" stackId="14" startPc="268444494"/>
+<entry endPc="268446744" name="dc" stackId="1" startPc="268444490"/>
+<entry endPc="268446744" name="minAngle" stackId="3" startPc="268444490"/>
+<entry endPc="268446744" name="hrAngle" stackId="2" startPc="268444490"/>
+<entry endPc="268447033" name="i" stackId="4" startPc="268446840"/>
+<entry endPc="268447060" name="max" stackId="3" startPc="268446748"/>
+<entry endPc="268447060" name="min" stackId="2" startPc="268446748"/>
+<entry endPc="268447061" name="points" stackId="1" startPc="268446744"/>
+<entry endPc="268447328" name="x" stackId="11" startPc="268447179"/>
+<entry endPc="268447328" name="y" stackId="12" startPc="268447179"/>
+<entry endPc="268447341" name="i" stackId="10" startPc="268447179"/>
+<entry endPc="268447344" name="sin" stackId="7" startPc="268447065"/>
+<entry endPc="268447344" name="coords" stackId="9" startPc="268447065"/>
+<entry endPc="268447344" name="cos" stackId="8" startPc="268447065"/>
+<entry endPc="268447345" name="dy" stackId="2" startPc="268447061"/>
+<entry endPc="268447345" name="dx" stackId="1" startPc="268447061"/>
+<entry endPc="268447345" name="theta" stackId="5" startPc="268447061"/>
+<entry endPc="268447345" name="points" stackId="6" startPc="268447061"/>
+<entry endPc="268447345" name="sy" stackId="4" startPc="268447061"/>
+<entry endPc="268447345" name="sx" stackId="3" startPc="268447061"/>
+<entry endPc="268447460" name="i" stackId="3" startPc="268447379"/>
+<entry endPc="268447461" name="dc" stackId="1" startPc="268447345"/>
+<entry endPc="268447461" name="points" stackId="2" startPc="268447345"/>
+<entry endPc="268447596" name="powerInfo" stackId="1" startPc="268447517"/>
+<entry endPc="268447625" name="state" stackId="1" startPc="268447620"/>
+<entry endPc="268447630" name="state" stackId="1" startPc="268447625"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="AdventurerScoutView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="AdventurerScoutView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="AdventurerScoutView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onPartialUpdate" parent="AdventurerScoutView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="displayStats" parent="AdventurerScoutView">
+<param id="dc"/>
+<param id="index"/>
+<param id="x"/>
+<param id="y"/>
+<param id="battery"/>
+<param id="timer"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawTicks" parent="AdventurerScoutView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="tickDisp" parent="AdventurerScoutView">
+<param id="dc"/>
+<param id="t_angle"/>
+<param id="tickdef"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawHands" parent="AdventurerScoutView">
+<param id="dc"/>
+<param id="hrAngle"/>
+<param id="minAngle"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getBoundingBox" parent="AdventurerScoutView">
+<param id="points"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="generateCoords" parent="AdventurerScoutView">
+<param id="dx"/>
+<param id="dy"/>
+<param id="sx"/>
+<param id="sy"/>
+<param id="theta"/>
+<param id="points"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawPolyOutline" parent="AdventurerScoutView">
+<param id="dc"/>
+<param id="points"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="AdventurerScoutView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="AdventurerScoutView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onEnterSleep" parent="AdventurerScoutView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onExitSleep" parent="AdventurerScoutView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onPowerBudgetExceeded" parent="AdventurerScoutDelegate">
+<param id="powerInfo"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="AdventurerScoutApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="AdventurerScoutApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="AdventurerScoutApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSettingsChanged" parent="AdventurerScoutApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="AdventurerScoutApp">
+<documentation/>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="182" parentId="globals" symbolId="AdventurerScoutApp" type="class"/>
+<dataEntry offset="261" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="340" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="379" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="410" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="489" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="520" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="551" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="726" parentId="globals" symbolId="AdventurerScoutDelegate" type="class"/>
+<dataEntry offset="781" parentId="globals" symbolId="AdventurerScoutView" type="class"/>
+</dataEntryOffsetMappings>
+</debugInfo>

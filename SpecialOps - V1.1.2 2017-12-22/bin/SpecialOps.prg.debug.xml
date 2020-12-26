@@ -1,0 +1,852 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="89" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="90" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="93" pc="268435478" symbol="initialize"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="94" pc="268435501" symbol="initialize"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="95" pc="268435530" symbol="initialize"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="96" pc="268435543" symbol="initialize"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="107" pc="268435557" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="109" pc="268435561" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="112" pc="268435598" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="113" pc="268435623" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="114" pc="268435648" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="115" pc="268435691" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="116" pc="268435734" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="117" pc="268435777" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="118" pc="268435820" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="119" pc="268435863" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="120" pc="268435906" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="121" pc="268435926" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="123" pc="268435946" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="135" pc="268435961" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="138" pc="268435965" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="139" pc="268436002" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="140" pc="268436039" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="141" pc="268436076" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="142" pc="268436113" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="143" pc="268436150" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="144" pc="268436187" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="145" pc="268436224" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="146" pc="268436261" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="147" pc="268436298" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="150" pc="268436341" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="151" pc="268436358" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="152" pc="268436375" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="153" pc="268436385" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="154" pc="268436395" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="155" pc="268436405" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="156" pc="268436412" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="157" pc="268436419" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="158" pc="268436442" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="159" pc="268436459" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="160" pc="268436512" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="161" pc="268436522" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="162" pc="268436541" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="169" pc="268436544" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="170" pc="268436551" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="171" pc="268436558" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="172" pc="268436563" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="173" pc="268436587" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="174" pc="268436595" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="175" pc="268436619" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="178" pc="268436656" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="179" pc="268436684" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="180" pc="268436710" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="181" pc="268436732" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="182" pc="268436754" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="183" pc="268436780" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="184" pc="268436802" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="185" pc="268436824" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="186" pc="268436850" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="190" pc="268436872" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="191" pc="268436896" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="192" pc="268436920" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="193" pc="268436952" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="194" pc="268436965" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="195" pc="268436978" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="196" pc="268436991" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="197" pc="268437019" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="198" pc="268437047" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="199" pc="268437075" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="200" pc="268437094" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="201" pc="268437113" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="212" pc="268437161" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="213" pc="268437176" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="214" pc="268437266" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="217" pc="268437295" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="218" pc="268437299" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="219" pc="268437314" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="220" pc="268437337" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="223" pc="268437357" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="224" pc="268437362" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="226" pc="268437381" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="233" pc="268437394" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="234" pc="268437404" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="235" pc="268437427" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="236" pc="268437471" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="237" pc="268437500" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="238" pc="268437507" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="241" pc="268437514" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="242" pc="268437545" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="243" pc="268437570" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="244" pc="268437577" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="247" pc="268437584" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="248" pc="268437615" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="249" pc="268437640" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="250" pc="268437647" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="253" pc="268437654" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="254" pc="268437685" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="255" pc="268437710" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="256" pc="268437717" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="257" pc="268437724" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="258" pc="268437731" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="259" pc="268438166" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="260" pc="268438457" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="261" pc="268438594" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="262" pc="268438631" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="263" pc="268438668" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="266" pc="268438705" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="267" pc="268438735" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="268" pc="268438764" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="270" pc="268438792" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="271" pc="268438821" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="273" pc="268438849" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="274" pc="268438878" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="275" pc="268438903" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="276" pc="268438919" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="286" pc="268438955" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="287" pc="268438991" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="292" pc="268439003" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="293" pc="268439019" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="294" pc="268439035" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="296" pc="268439051" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="297" pc="268439068" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="298" pc="268439121" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="301" pc="268439154" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="302" pc="268439171" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="303" pc="268439224" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="310" pc="268439257" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="311" pc="268439282" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="312" pc="268439357" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="313" pc="268439480" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="314" pc="268439616" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="318" pc="268439782" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="319" pc="268439787" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="320" pc="268439813" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="321" pc="268439849" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="322" pc="268439900" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="323" pc="268439920" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="324" pc="268439956" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="325" pc="268440013" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="326" pc="268440033" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="327" pc="268440057" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="329" pc="268440071" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="330" pc="268440091" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="333" pc="268440110" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="334" pc="268440154" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="335" pc="268440189" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="336" pc="268440277" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="337" pc="268440299" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="341" pc="268440349" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="342" pc="268440385" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="343" pc="268440439" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="344" pc="268440474" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="345" pc="268440528" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="349" pc="268440557" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="353" pc="268440577" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="357" pc="268440591" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="358" pc="268440619" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="362" pc="268440647" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="363" pc="268440658" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="364" pc="268440690" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="365" pc="268440704" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="366" pc="268440718" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="367" pc="268440750" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="371" pc="268440767" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="372" pc="268440799" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="373" pc="268440832" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="374" pc="268440868" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="375" pc="268440901" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="376" pc="268440937" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="382" pc="268440970" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="383" pc="268440987" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="384" pc="268440997" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="385" pc="268441007" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="386" pc="268441017" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="387" pc="268441027" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="388" pc="268441037" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="389" pc="268441047" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="390" pc="268441057" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="392" pc="268441100" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="393" pc="268441116" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="394" pc="268441132" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="395" pc="268441139" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="398" pc="268441175" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="410" pc="268441195" symbol="getStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="411" pc="268441199" symbol="getStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="412" pc="268441207" symbol="getStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="413" pc="268441230" symbol="getStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="414" pc="268441249" symbol="getStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="415" pc="268441274" symbol="getStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="416" pc="268441308" symbol="getStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="417" pc="268441327" symbol="getStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="418" pc="268441352" symbol="getStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="419" pc="268441392" symbol="getStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="429" pc="268441396" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="432" pc="268441400" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="433" pc="268441410" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="434" pc="268441413" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="435" pc="268441427" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="437" pc="268441440" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="439" pc="268441474" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="441" pc="268441506" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="577" pc="268441708" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="580" pc="268441749" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="447" pc="268441755" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="448" pc="268441805" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="449" pc="268441834" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="450" pc="268441896" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="451" pc="268441906" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="452" pc="268441968" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="458" pc="268441971" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="459" pc="268441988" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="460" pc="268441998" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="461" pc="268442008" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="462" pc="268442018" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="463" pc="268442031" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="465" pc="268442044" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="466" pc="268442055" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="467" pc="268442068" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="468" pc="268442079" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="470" pc="268442092" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="471" pc="268442105" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="472" pc="268442118" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="473" pc="268442128" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="474" pc="268442163" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="475" pc="268442198" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="477" pc="268442233" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="478" pc="268442287" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="479" pc="268442306" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="480" pc="268442342" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="481" pc="268442380" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="482" pc="268442449" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="483" pc="268442515" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="484" pc="268442526" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="486" pc="268442604" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="488" pc="268442699" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="494" pc="268442702" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="495" pc="268442719" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="496" pc="268442729" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="497" pc="268442798" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="498" pc="268442867" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="499" pc="268442907" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="500" pc="268442980" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="501" pc="268442987" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="503" pc="268443057" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="506" pc="268443113" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="512" pc="268443116" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="513" pc="268443133" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="514" pc="268443143" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="515" pc="268443153" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="516" pc="268443222" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="517" pc="268443291" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="518" pc="268443331" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="519" pc="268443384" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="520" pc="268443437" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="525" pc="268443440" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="526" pc="268443459" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="527" pc="268443469" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="528" pc="268443485" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="529" pc="268443504" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="530" pc="268443573" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="531" pc="268443642" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="532" pc="268443682" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="533" pc="268443735" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="534" pc="268443797" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="538" pc="268443800" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="541" pc="268443841" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="546" pc="268443844" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="549" pc="268443885" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="554" pc="268443888" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="557" pc="268443929" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="562" pc="268443932" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="565" pc="268443973" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="570" pc="268443976" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="573" pc="268444017" symbol="displayStats"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="615" pc="268444024" symbol="drawStatsPointers"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="616" pc="268444028" symbol="drawStatsPointers"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="617" pc="268444057" symbol="drawStatsPointers"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="618" pc="268444086" symbol="drawStatsPointers"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="632" pc="268444112" symbol="drawStatsPointers"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="633" pc="268444128" symbol="drawStatsPointers"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="634" pc="268444144" symbol="drawStatsPointers"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="635" pc="268444226" symbol="drawStatsPointers"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="636" pc="268444269" symbol="drawStatsPointers"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="638" pc="268444312" symbol="drawStatsPointers"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="639" pc="268444329" symbol="drawStatsPointers"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="640" pc="268444365" symbol="drawStatsPointers"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="641" pc="268444381" symbol="drawStatsPointers"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="642" pc="268444398" symbol="drawStatsPointers"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="643" pc="268444434" symbol="drawStatsPointers"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="644" pc="268444450" symbol="drawStatsPointers"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="647" pc="268444467" symbol="drawStatsPointers"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="648" pc="268444484" symbol="drawStatsPointers"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="649" pc="268444520" symbol="drawStatsPointers"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="650" pc="268444536" symbol="drawStatsPointers"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="651" pc="268444553" symbol="drawStatsPointers"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="652" pc="268444589" symbol="drawStatsPointers"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="653" pc="268444605" symbol="drawStatsPointers"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="665" pc="268444623" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="667" pc="268444627" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="668" pc="268444630" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="669" pc="268444633" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="670" pc="268444636" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="671" pc="268444656" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="672" pc="268444675" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="673" pc="268444685" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="675" pc="268444695" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="676" pc="268444705" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="677" pc="268444730" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="679" pc="268444752" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="680" pc="268444759" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="681" pc="268444766" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="682" pc="268444773" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="683" pc="268444963" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="684" pc="268444973" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="685" pc="268445169" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="686" pc="268445172" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="687" pc="268445175" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="689" pc="268445178" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="690" pc="268445196" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="691" pc="268445214" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="692" pc="268445224" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="694" pc="268445247" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="695" pc="268445284" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="696" pc="268445320" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="697" pc="268445337" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="698" pc="268445353" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="699" pc="268445370" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="700" pc="268445406" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="702" pc="268445420" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="703" pc="268445457" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="704" pc="268445493" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="705" pc="268445510" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="706" pc="268445526" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="707" pc="268445543" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="708" pc="268445575" symbol="drawTicks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="722" pc="268445606" symbol="drawNum"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="723" pc="268445610" symbol="drawNum"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="724" pc="268445624" symbol="drawNum"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="725" pc="268445638" symbol="drawNum"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="726" pc="268445664" symbol="drawNum"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="727" pc="268445705" symbol="drawNum"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="728" pc="268445731" symbol="drawNum"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="737" pc="268445773" symbol="drawHrMinHands"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="740" pc="268445777" symbol="drawHrMinHands"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="741" pc="268445784" symbol="drawHrMinHands"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="742" pc="268445992" symbol="drawHrMinHands"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="743" pc="268446005" symbol="drawHrMinHands"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="744" pc="268446195" symbol="drawHrMinHands"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="745" pc="268446205" symbol="drawHrMinHands"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="746" pc="268446215" symbol="drawHrMinHands"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="747" pc="268446225" symbol="drawHrMinHands"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="750" pc="268446415" symbol="drawHrMinHands"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="751" pc="268446452" symbol="drawHrMinHands"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="752" pc="268446489" symbol="drawHrMinHands"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="756" pc="268446526" symbol="drawHrMinHands"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="757" pc="268446562" symbol="drawHrMinHands"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="758" pc="268446579" symbol="drawHrMinHands"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="759" pc="268446595" symbol="drawHrMinHands"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="762" pc="268446612" symbol="drawHrMinHands"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="763" pc="268446648" symbol="drawHrMinHands"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="764" pc="268446665" symbol="drawHrMinHands"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="765" pc="268446681" symbol="drawHrMinHands"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="766" pc="268446698" symbol="drawHrMinHands"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="769" pc="268446712" symbol="drawHrMinHands"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="770" pc="268446748" symbol="drawHrMinHands"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="771" pc="268446765" symbol="drawHrMinHands"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="772" pc="268446781" symbol="drawHrMinHands"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="773" pc="268446798" symbol="drawHrMinHands"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="774" pc="268446830" symbol="drawHrMinHands"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="787" pc="268446845" symbol="drawDigInset"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="788" pc="268446849" symbol="drawDigInset"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="789" pc="268446874" symbol="drawDigInset"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="790" pc="268446910" symbol="drawDigInset"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="791" pc="268446966" symbol="drawDigInset"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="792" pc="268446994" symbol="drawDigInset"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="800" pc="268447033" symbol="drawPolyOutline"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="803" pc="268447037" symbol="drawPolyOutline"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="804" pc="268447067" symbol="drawPolyOutline"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="816" pc="268447149" symbol="generateCoords"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="817" pc="268447153" symbol="generateCoords"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="818" pc="268447191" symbol="generateCoords"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="820" pc="268447229" symbol="generateCoords"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="821" pc="268447243" symbol="generateCoords"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="824" pc="268447267" symbol="generateCoords"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="826" pc="268447322" symbol="generateCoords"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="827" pc="268447356" symbol="generateCoords"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="829" pc="268447390" symbol="generateCoords"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="830" pc="268447403" symbol="generateCoords"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="833" pc="268447429" symbol="generateCoords"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="844" pc="268447433" symbol="printArray"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="845" pc="268447437" symbol="printArray"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="846" pc="268447461" symbol="printArray"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="854" pc="268447540" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="855" pc="268447544" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="856" pc="268447554" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="859" pc="268447571" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="860" pc="268447575" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="861" pc="268447585" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="867" pc="268447602" symbol="onShow"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsView.mc" lineNum="873" pc="268447607" symbol="onHide"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsApp.mc" lineNum="6" pc="268447612" symbol="initialize"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsApp.mc" lineNum="7" pc="268447616" symbol="initialize"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsApp.mc" lineNum="11" pc="268447635" symbol="onStart"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsApp.mc" lineNum="15" pc="268447640" symbol="onStop"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsApp.mc" lineNum="21" pc="268447645" symbol="onSettingsChanged"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsApp.mc" lineNum="22" pc="268447649" symbol="onSettingsChanged"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsApp.mc" lineNum="26" pc="268447666" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\SpecialOps\\.\\source\\SpecialOpsApp.mc" lineNum="27" pc="268447670" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="53" pc="268447708" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="57" pc="268447720" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="58" pc="268447883" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="59" pc="268447908" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="60" pc="268447960" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="63" pc="268448006" symbol="WatchFace"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="86" symbol="c_digitalText"/>
+<entry field="true" id="29" symbol="pink_title"/>
+<entry field="true" id="50" symbol="appStore_handTipColor"/>
+<entry field="true" id="15" symbol="proan_digital_font"/>
+<entry field="true" id="32" symbol="blue_title"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="103" method="true" symbol="drawDigInset"/>
+<entry field="true" id="97" symbol="logging"/>
+<entry field="true" id="94" symbol="appBattStartValue"/>
+<entry field="true" id="25" symbol="datanone_title"/>
+<entry field="true" id="92" symbol="num2Font"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388645" module="true" symbol="Time"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry field="true" id="22" symbol="red_title"/>
+<entry field="true" id="18" symbol="proan_num_font"/>
+<entry field="true" id="26" symbol="dispcals_title"/>
+<entry field="true" id="56" symbol="appStore_dispStep"/>
+<entry id="99" method="true" symbol="drawStatsPointers"/>
+<entry field="true" id="93" symbol="appStartTimer"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry field="true" id="16" symbol="proan_digitalsmall_font"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry field="true" id="53" symbol="appStore_calorieGoal"/>
+<entry id="100" method="true" symbol="drawTicks"/>
+<entry id="101" method="true" symbol="drawNum"/>
+<entry field="true" id="65" symbol="C_BLUE"/>
+<entry field="true" id="17" symbol="proan_digitalsmall_nonmono_font"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry field="true" id="83" symbol="c_arborColor"/>
+<entry field="true" id="57" symbol="appStore_dispCals"/>
+<entry field="true" id="72" symbol="C_PURPLE"/>
+<entry field="true" id="35" symbol="dkblue_title"/>
+<entry field="true" id="77" symbol="mid_y"/>
+<entry field="true" id="76" symbol="mid_x"/>
+<entry field="true" id="80" symbol="c_tipColor"/>
+<entry field="true" id="87" symbol="smallFont"/>
+<entry field="true" id="96" symbol="appRefreshCounter"/>
+<entry id="105" method="true" symbol="generateCoords"/>
+<entry field="true" id="47" symbol="dispstep_title"/>
+<entry field="true" id="43" symbol="dkgreen_title"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="28" symbol="AppName"/>
+<entry field="true" id="51" symbol="appStore_hashColor"/>
+<entry field="true" id="33" symbol="digitop_title"/>
+<entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+<entry field="true" id="37" symbol="sechandcolor_title"/>
+<entry id="8390181" method="true" symbol="getStats"/>
+<entry field="true" id="78" symbol="arcWidth"/>
+<entry field="true" id="40" symbol="digibottom_title"/>
+<entry field="true" id="19" symbol="proan_num2_font"/>
+<entry field="true" id="54" symbol="appStore_timeoffset"/>
+<entry field="true" id="73" symbol="C_PINK"/>
+<entry field="true" id="74" symbol="colArray"/>
+<entry field="true" id="71" symbol="C_ORANGE"/>
+<entry field="true" id="39" symbol="ltgray_title"/>
+<entry id="8388641" module="true" symbol="Math"/>
+<entry field="true" id="13" symbol="LauncherIcon"/>
+<entry field="true" id="85" symbol="c_digitalBG"/>
+<entry id="8388646" module="true" object="true" symbol="Timer"/>
+<entry id="8389683" method="true" symbol="onSettingsChanged"/>
+<entry field="true" id="60" symbol="C_YELLOW"/>
+<entry field="true" id="48" symbol="datatime_title"/>
+<entry field="true" id="67" symbol="C_GREEN"/>
+<entry field="true" id="41" symbol="datadate_title"/>
+<entry id="102" method="true" symbol="drawHrMinHands"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="61" symbol="C_WHITE"/>
+<entry field="true" id="34" symbol="hashcolor_title"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry field="true" id="24" symbol="handtipcolor_title"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="106" method="true" symbol="printArray"/>
+<entry field="true" id="69" symbol="C_RED"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="81" symbol="c_hashColor"/>
+<entry field="true" id="88" symbol="digitalFont"/>
+<entry field="true" id="52" symbol="appStore_secHandColor"/>
+<entry field="true" id="64" symbol="C_BLACK"/>
+<entry field="true" id="63" symbol="C_DK_GRAY"/>
+<entry field="true" id="14" symbol="proan_font"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry id="8389348" symbol="font"/>
+<entry field="true" id="45" symbol="purple_title"/>
+<entry id="8389347" symbol="color"/>
+<entry field="true" id="23" symbol="white_title"/>
+<entry field="true" id="20" symbol="timeoffset_title"/>
+<entry field="true" id="84" symbol="c_secFill"/>
+<entry field="true" id="82" symbol="c_secColor"/>
+<entry field="true" id="36" symbol="dispbatt_title"/>
+<entry field="true" id="30" symbol="dkgray_title"/>
+<entry id="9" object="true" symbol="SpecialOpsView"/>
+<entry id="104" method="true" symbol="drawPolyOutline"/>
+<entry field="true" id="31" symbol="datastepcal_title"/>
+<entry field="true" id="91" symbol="numFont"/>
+<entry id="12" module="true" symbol="Layouts"/>
+<entry field="true" id="89" symbol="digSmallFont"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry field="true" id="38" symbol="yellow_title"/>
+<entry field="true" id="66" symbol="C_DK_BLUE"/>
+<entry field="true" id="49" symbol="orange_title"/>
+<entry field="true" id="90" symbol="digSmallNMFont"/>
+<entry field="true" id="44" symbol="green_title"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry field="true" id="68" symbol="C_DK_GREEN"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="98" method="true" symbol="displayStats"/>
+<entry id="10" object="true" symbol="SpecialOpsApp"/>
+<entry field="true" id="46" symbol="dkred_title"/>
+<entry id="11" module="true" symbol="Menus"/>
+<entry field="true" id="70" symbol="C_DK_RED"/>
+<entry field="true" id="75" symbol="fast_updates"/>
+<entry field="true" id="55" symbol="appStore_dispBatt"/>
+<entry field="true" id="59" symbol="appStore_bottomDigi"/>
+<entry field="true" id="21" symbol="databattery_title"/>
+<entry field="true" id="62" symbol="C_LT_GRAY"/>
+<entry field="true" id="27" symbol="cals_title"/>
+<entry field="true" id="58" symbol="appStore_topDigi"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="8388633" module="true" symbol="ActivityMonitor"/>
+<entry field="true" id="79" symbol="ARCWIDTH"/>
+<entry field="true" id="42" symbol="black_title"/>
+<entry field="true" id="95" symbol="appAvgLatency"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435961" name="dc" stackId="1" startPc="268435557"/>
+<entry endPc="268437132" name="tempVal" stackId="19" startPc="268436952"/>
+<entry endPc="268437132" name="tempDis" stackId="21" startPc="268436952"/>
+<entry endPc="268437132" name="tempCol" stackId="20" startPc="268436952"/>
+<entry endPc="268441194" name="hrUpY" stackId="31" startPc="268435965"/>
+<entry endPc="268441194" name="secUpY" stackId="40" startPc="268435965"/>
+<entry endPc="268441194" name="sTip" stackId="43" startPc="268435965"/>
+<entry endPc="268441194" name="secTail" stackId="37" startPc="268435965"/>
+<entry endPc="268441194" name="battPerHr" stackId="57" startPc="268435965"/>
+<entry endPc="268441194" name="xStart" stackId="48" startPc="268435965"/>
+<entry endPc="268441194" name="minTail" stackId="33" startPc="268435965"/>
+<entry endPc="268441194" name="minute" stackId="5" startPc="268435965"/>
+<entry endPc="268441194" name="sTipXform" stackId="46" startPc="268435965"/>
+<entry endPc="268441194" name="arcStart" stackId="7" startPc="268435965"/>
+<entry endPc="268441194" name="tailStart" stackId="39" startPc="268435965"/>
+<entry endPc="268441194" name="timeRunHrs" stackId="55" startPc="268435965"/>
+<entry endPc="268441194" name="timeRunning" stackId="54" startPc="268435965"/>
+<entry endPc="268441194" name="hrTail" stackId="29" startPc="268435965"/>
+<entry endPc="268441194" name="numItems" stackId="16" startPc="268435965"/>
+<entry endPc="268441194" name="scaley" stackId="28" startPc="268435965"/>
+<entry endPc="268441194" name="minUpY" stackId="35" startPc="268435965"/>
+<entry endPc="268441194" name="scalex" stackId="27" startPc="268435965"/>
+<entry endPc="268441194" name="actInfo" stackId="10" startPc="268435965"/>
+<entry endPc="268441194" name="h_fraction" stackId="23" startPc="268435965"/>
+<entry endPc="268441194" name="hrLen" stackId="30" startPc="268435965"/>
+<entry endPc="268441194" name="secLen" stackId="38" startPc="268435965"/>
+<entry endPc="268441194" name="hour" stackId="4" startPc="268435965"/>
+<entry endPc="268441194" name="secAngle" stackId="26" startPc="268435965"/>
+<entry endPc="268441194" name="arc" stackId="18" startPc="268435965"/>
+<entry endPc="268441194" name="calInfo" stackId="12" startPc="268435965"/>
+<entry endPc="268441194" name="second" stackId="6" startPc="268435965"/>
+<entry endPc="268441194" name="yinc" stackId="61" startPc="268435965"/>
+<entry endPc="268441194" name="timer" stackId="2" startPc="268435965"/>
+<entry endPc="268441194" name="yBStart" stackId="50" startPc="268435965"/>
+<entry endPc="268441194" name="battUsed" stackId="56" startPc="268435965"/>
+<entry endPc="268441194" name="sTipFillXform" stackId="47" startPc="268435965"/>
+<entry endPc="268441194" name="sHandXform" stackId="45" startPc="268435965"/>
+<entry endPc="268441194" name="hrDnY" stackId="32" startPc="268435965"/>
+<entry endPc="268441194" name="secDnY" stackId="41" startPc="268435965"/>
+<entry endPc="268441194" name="numNodes" stackId="17" startPc="268435965"/>
+<entry endPc="268441194" name="goalPos" stackId="8" startPc="268435965"/>
+<entry endPc="268441194" name="currLatency" stackId="53" startPc="268435965"/>
+<entry endPc="268441194" name="stepPerc" stackId="11" startPc="268435965"/>
+<entry endPc="268441194" name="calPerc" stackId="13" startPc="268435965"/>
+<entry endPc="268441194" name="h_angle" stackId="25" startPc="268435965"/>
+<entry endPc="268441194" name="m_angle" stackId="24" startPc="268435965"/>
+<entry endPc="268441194" name="anyStatsDisplay" stackId="22" startPc="268435965"/>
+<entry endPc="268441194" name="x" stackId="15" startPc="268435965"/>
+<entry endPc="268441194" name="minLen" stackId="34" startPc="268435965"/>
+<entry endPc="268441194" name="now" stackId="3" startPc="268435965"/>
+<entry endPc="268441194" name="currTimer" stackId="52" startPc="268435965"/>
+<entry endPc="268441194" name="n" stackId="14" startPc="268435965"/>
+<entry endPc="268441194" name="stats" stackId="51" startPc="268435965"/>
+<entry endPc="268441194" name="ty" stackId="60" startPc="268435965"/>
+<entry endPc="268441194" name="tx" stackId="59" startPc="268435965"/>
+<entry endPc="268441194" name="sHand" stackId="42" startPc="268435965"/>
+<entry endPc="268441194" name="timeRemaining" stackId="58" startPc="268435965"/>
+<entry endPc="268441194" name="yTStart" stackId="49" startPc="268435965"/>
+<entry endPc="268441194" name="sTipFill" stackId="44" startPc="268435965"/>
+<entry endPc="268441194" name="minDnY" stackId="36" startPc="268435965"/>
+<entry endPc="268441194" name="battery" stackId="9" startPc="268435965"/>
+<entry endPc="268441195" name="dc" stackId="1" startPc="268435961"/>
+<entry endPc="268441395" name="stats" stackId="3" startPc="268441199"/>
+<entry endPc="268441396" name="battery" stackId="1" startPc="268441195"/>
+<entry endPc="268441396" name="timer" stackId="2" startPc="268441195"/>
+<entry endPc="268444023" name="now" stackId="11" startPc="268441508"/>
+<entry endPc="268444023" name="sensorInfo" stackId="25" startPc="268441508"/>
+<entry endPc="268444023" name="stringHr" stackId="17" startPc="268441508"/>
+<entry endPc="268444023" name="hour" stackId="12" startPc="268441508"/>
+<entry endPc="268444023" name="altitude" stackId="27" startPc="268441508"/>
+<entry endPc="268444023" name="offsetHour" stackId="16" startPc="268441508"/>
+<entry endPc="268444023" name="stringMin" stackId="18" startPc="268441508"/>
+<entry endPc="268444023" name="mid2_x" stackId="28" startPc="268441508"/>
+<entry endPc="268444023" name="actInfo" stackId="22" startPc="268441508"/>
+<entry endPc="268444023" name="timeRemaining" stackId="21" startPc="268441508"/>
+<entry endPc="268444023" name="minute" stackId="13" startPc="268441508"/>
+<entry endPc="268444023" name="dayOfWeek" stackId="9" startPc="268441508"/>
+<entry endPc="268444023" name="n" stackId="19" startPc="268441508"/>
+<entry endPc="268444023" name="stringSec" stackId="15" startPc="268441508"/>
+<entry endPc="268444023" name="cals" stackId="24" startPc="268441508"/>
+<entry endPc="268444023" name="day" stackId="10" startPc="268441508"/>
+<entry endPc="268444023" name="steps" stackId="23" startPc="268441508"/>
+<entry endPc="268444023" name="dateString" stackId="8" startPc="268441508"/>
+<entry endPc="268444023" name="second" stackId="14" startPc="268441508"/>
+<entry endPc="268444023" name="stats" stackId="20" startPc="268441508"/>
+<entry endPc="268444023" name="heartRate" stackId="26" startPc="268441508"/>
+<entry endPc="268444023" name="label_y" stackId="7" startPc="268441400"/>
+<entry endPc="268444024" name="battery" stackId="5" startPc="268441396"/>
+<entry endPc="268444024" name="x" stackId="3" startPc="268441396"/>
+<entry endPc="268444024" name="dc" stackId="1" startPc="268441396"/>
+<entry endPc="268444024" name="index" stackId="2" startPc="268441396"/>
+<entry endPc="268444024" name="timer" stackId="6" startPc="268441396"/>
+<entry endPc="268444024" name="y" stackId="4" startPc="268441396"/>
+<entry endPc="268444622" name="pAngB" stackId="6" startPc="268444028"/>
+<entry endPc="268444622" name="pRecBX" stackId="11" startPc="268444028"/>
+<entry endPc="268444622" name="pRecSX" stackId="12" startPc="268444028"/>
+<entry endPc="268444622" name="pSx" stackId="8" startPc="268444028"/>
+<entry endPc="268444622" name="pAngS" stackId="7" startPc="268444028"/>
+<entry endPc="268444622" name="pSteps" stackId="5" startPc="268444028"/>
+<entry endPc="268444622" name="pRecDef" stackId="10" startPc="268444028"/>
+<entry endPc="268444622" name="pEx" stackId="9" startPc="268444028"/>
+<entry endPc="268444623" name="battery" stackId="4" startPc="268444024"/>
+<entry endPc="268444623" name="dc" stackId="1" startPc="268444024"/>
+<entry endPc="268444623" name="steps" stackId="2" startPc="268444024"/>
+<entry endPc="268444623" name="stepGoal" stackId="3" startPc="268444024"/>
+<entry endPc="268445605" name="n" stackId="13" startPc="268445196"/>
+<entry endPc="268445605" name="tickEnd" stackId="2" startPc="268444627"/>
+<entry endPc="268445605" name="tick2def" stackId="9" startPc="268444627"/>
+<entry endPc="268445605" name="t_angle" stackId="11" startPc="268444627"/>
+<entry endPc="268445605" name="tick" stackId="10" startPc="268444627"/>
+<entry endPc="268445605" name="tickStart" stackId="3" startPc="268444627"/>
+<entry endPc="268445605" name="yOff" stackId="5" startPc="268444627"/>
+<entry endPc="268445605" name="sy" stackId="7" startPc="268444627"/>
+<entry endPc="268445605" name="sx" stackId="6" startPc="268444627"/>
+<entry endPc="268445605" name="tickdef" stackId="8" startPc="268444627"/>
+<entry endPc="268445605" name="baseOffset" stackId="4" startPc="268444627"/>
+<entry endPc="268445605" name="tickX" stackId="12" startPc="268444627"/>
+<entry endPc="268445606" name="dc" stackId="1" startPc="268444623"/>
+<entry endPc="268445772" name="numShade" stackId="9" startPc="268445610"/>
+<entry endPc="268445772" name="numCol" stackId="8" startPc="268445610"/>
+<entry endPc="268445773" name="dc" stackId="1" startPc="268445606"/>
+<entry endPc="268445773" name="justify" stackId="7" startPc="268445606"/>
+<entry endPc="268445773" name="x2" stackId="4" startPc="268445606"/>
+<entry endPc="268445773" name="num" stackId="6" startPc="268445606"/>
+<entry endPc="268445773" name="x1" stackId="2" startPc="268445606"/>
+<entry endPc="268445773" name="y2" stackId="5" startPc="268445606"/>
+<entry endPc="268445773" name="y1" stackId="3" startPc="268445606"/>
+<entry endPc="268446844" name="endStart" stackId="13" startPc="268445777"/>
+<entry endPc="268446844" name="baseLen" stackId="9" startPc="268445777"/>
+<entry endPc="268446844" name="base" stackId="10" startPc="268445777"/>
+<entry endPc="268446844" name="baseX" stackId="15" startPc="268445777"/>
+<entry endPc="268446844" name="end" stackId="14" startPc="268445777"/>
+<entry endPc="268446844" name="midX" stackId="16" startPc="268445777"/>
+<entry endPc="268446844" name="midLen" stackId="11" startPc="268445777"/>
+<entry endPc="268446844" name="mid" stackId="12" startPc="268445777"/>
+<entry endPc="268446844" name="endX" stackId="17" startPc="268445777"/>
+<entry endPc="268446845" name="len" stackId="2" startPc="268445773"/>
+<entry endPc="268446845" name="dc" stackId="1" startPc="268445773"/>
+<entry endPc="268446845" name="tail" stackId="3" startPc="268445773"/>
+<entry endPc="268446845" name="dnY" stackId="5" startPc="268445773"/>
+<entry endPc="268446845" name="upY" stackId="4" startPc="268445773"/>
+<entry endPc="268446845" name="angle" stackId="8" startPc="268445773"/>
+<entry endPc="268446845" name="sy" stackId="7" startPc="268445773"/>
+<entry endPc="268446845" name="sx" stackId="6" startPc="268445773"/>
+<entry endPc="268447032" name="len" stackId="5" startPc="268446849"/>
+<entry endPc="268447033" name="x" stackId="2" startPc="268446845"/>
+<entry endPc="268447033" name="dc" stackId="1" startPc="268446845"/>
+<entry endPc="268447033" name="h" stackId="4" startPc="268446845"/>
+<entry endPc="268447033" name="y" stackId="3" startPc="268446845"/>
+<entry endPc="268447148" name="i" stackId="3" startPc="268447067"/>
+<entry endPc="268447149" name="dc" stackId="1" startPc="268447033"/>
+<entry endPc="268447149" name="points" stackId="2" startPc="268447033"/>
+<entry endPc="268447416" name="x" stackId="11" startPc="268447267"/>
+<entry endPc="268447416" name="y" stackId="12" startPc="268447267"/>
+<entry endPc="268447429" name="i" stackId="10" startPc="268447267"/>
+<entry endPc="268447432" name="sin" stackId="7" startPc="268447153"/>
+<entry endPc="268447432" name="coords" stackId="9" startPc="268447153"/>
+<entry endPc="268447432" name="cos" stackId="8" startPc="268447153"/>
+<entry endPc="268447433" name="dy" stackId="2" startPc="268447149"/>
+<entry endPc="268447433" name="dx" stackId="1" startPc="268447149"/>
+<entry endPc="268447433" name="theta" stackId="5" startPc="268447149"/>
+<entry endPc="268447433" name="points" stackId="6" startPc="268447149"/>
+<entry endPc="268447433" name="sy" stackId="4" startPc="268447149"/>
+<entry endPc="268447433" name="sx" stackId="3" startPc="268447149"/>
+<entry endPc="268447539" name="n" stackId="2" startPc="268447461"/>
+<entry endPc="268447540" name="array" stackId="1" startPc="268447433"/>
+<entry endPc="268447640" name="state" stackId="1" startPc="268447635"/>
+<entry endPc="268447645" name="state" stackId="1" startPc="268447640"/>
+<entry endPc="268448023" name="rez_cmp_local_bitmap_TimeLabel" stackId="2" startPc="268447720"/>
+<entry endPc="268448023" name="rez_cmp_local_bitmap_TimeLabel_fontHeight" stackId="3" startPc="268447720"/>
+<entry endPc="268448024" name="dc" stackId="1" startPc="268447708"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="SpecialOpsView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="SpecialOpsView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="SpecialOpsView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getStats" parent="SpecialOpsView">
+<param id="battery"/>
+<param id="timer"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="displayStats" parent="SpecialOpsView">
+<param id="dc"/>
+<param id="index"/>
+<param id="x"/>
+<param id="y"/>
+<param id="battery"/>
+<param id="timer"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawStatsPointers" parent="SpecialOpsView">
+<param id="dc"/>
+<param id="steps"/>
+<param id="stepGoal"/>
+<param id="battery"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawTicks" parent="SpecialOpsView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawNum" parent="SpecialOpsView">
+<param id="dc"/>
+<param id="x1"/>
+<param id="y1"/>
+<param id="x2"/>
+<param id="y2"/>
+<param id="num"/>
+<param id="justify"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawHrMinHands" parent="SpecialOpsView">
+<param id="dc"/>
+<param id="len"/>
+<param id="tail"/>
+<param id="upY"/>
+<param id="dnY"/>
+<param id="sx"/>
+<param id="sy"/>
+<param id="angle"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawDigInset" parent="SpecialOpsView">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="h"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawPolyOutline" parent="SpecialOpsView">
+<param id="dc"/>
+<param id="points"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="generateCoords" parent="SpecialOpsView">
+<param id="dx"/>
+<param id="dy"/>
+<param id="sx"/>
+<param id="sy"/>
+<param id="theta"/>
+<param id="points"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="printArray" parent="SpecialOpsView">
+<param id="array"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onExitSleep" parent="SpecialOpsView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onEnterSleep" parent="SpecialOpsView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="SpecialOpsView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="SpecialOpsView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="SpecialOpsApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="SpecialOpsApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="SpecialOpsApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSettingsChanged" parent="SpecialOpsApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="SpecialOpsApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="WatchFace" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="166" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="245" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="284" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="315" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="394" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="425" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="464" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="735" parentId="globals" symbolId="SpecialOpsApp" type="class"/>
+<dataEntry offset="814" parentId="globals" symbolId="SpecialOpsView" type="class"/>
+</dataEntryOffsetMappings>
+</debugInfo>

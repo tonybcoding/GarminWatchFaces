@@ -1,0 +1,94 @@
+<resources>
+
+    <properties>
+        <property id="scheme_prop" type="number">100</property>
+        <property id="battery_prop" type="boolean">true</property>
+        <property id="steps_prop" type="boolean">true</property>
+        <property id="switch_prop" type="boolean">false</property>
+        <property id="gaugetype_prop" type="number">300</property>
+        <property id="gaugehand_prop" type="boolean">false</property>
+        <property id="fullday_prop" type="boolean">true</property>
+        <property id="ticks_prop" type="boolean">false</property>
+        <property id="second_prop" type="number">200</property>
+        <property id="license_prop" type="string">Not required. Free release.</property>
+    </properties>
+
+    <strings>
+       <string id="scheme_title">Select theme</string>
+       <string id="battery_title">Show battery gauge</string>
+       <string id="steps_title">Show steps gauge</string>
+       <string id="switch_title">Switch gauge positions</string>
+       <string id="gaugetype_title">Type of gauge for stats</string>       
+       <string id="gaugearc">Arc gauges</string>
+       <string id="gaugedialw">Dial gauges - white</string>
+       <string id="gaugedialb">Dial gauges - black</string>
+       <string id="gaugenone">No gauges</string>
+       <string id="gaugehand_title">Black/White dial hands (dial gauges only)?</string> 
+       <string id="fullday_title">Show both day of week and date</string>
+       <string id="ticks_title">Show tick marks instead of major numbers</string>
+       <string id="WhiteTheme">White background</string>
+       <string id="BlackTheme">Black background</string>
+       <string id="sec_title">Select second hand color</string>
+       <string id="secStandard">Default color second hand</string>
+       <string id="secRed">Red second hand</string>       
+       <string id="secNone">No second hand</string>
+       <string id="license_title">Enter License Key</string>
+    </strings>
+
+    <settings>
+        <setting propertyKey="@Properties.scheme_prop" title="@Strings.scheme_title">
+            <settingConfig type="list">
+            	<listEntry value="100">@Strings.WhiteTheme</listEntry>
+            	<listEntry value="101">@Strings.BlackTheme</listEntry>
+            </settingConfig>
+        </setting>
+
+
+        <setting propertyKey="@Properties.gaugetype_prop" title="@Strings.gaugetype_title">
+            <settingConfig type="list">
+            	<listEntry value="300">@Strings.gaugearc</listEntry>
+            	<listEntry value="301">@Strings.gaugedialw</listEntry>
+            	<listEntry value="302">@Strings.gaugedialb</listEntry>
+            	<listEntry value="303">@Strings.gaugenone</listEntry>
+            </settingConfig>
+        </setting>   
+
+        <setting propertyKey="@Properties.gaugehand_prop" title="@Strings.gaugehand_title">
+            <settingConfig type="boolean" />
+        </setting>
+
+        <setting propertyKey="@Properties.battery_prop" title="@Strings.battery_title">
+            <settingConfig type="boolean" />
+        </setting>
+
+        <setting propertyKey="@Properties.steps_prop" title="@Strings.steps_title">
+            <settingConfig type="boolean" />
+        </setting>
+
+        <setting propertyKey="@Properties.switch_prop" title="@Strings.switch_title">
+            <settingConfig type="boolean" />
+        </setting>
+
+        <setting propertyKey="@Properties.fullday_prop" title="@Strings.fullday_title">
+            <settingConfig type="boolean" />
+        </setting>
+
+        <setting propertyKey="@Properties.ticks_prop" title="@Strings.ticks_title">
+            <settingConfig type="boolean" />
+        </setting>
+        
+        <setting propertyKey="@Properties.second_prop" title="@Strings.sec_title">
+            <settingConfig type="list">
+            	<listEntry value="200">@Strings.secStandard</listEntry>
+            	<listEntry value="201">@Strings.secRed</listEntry>
+            	<listEntry value="202">@Strings.secNone</listEntry>
+            </settingConfig>
+        </setting>
+        
+        <setting propertyKey="@Properties.license_prop" title="@Strings.license_title">
+            <settingConfig type="alphaNumeric" />
+        </setting>        
+        
+                
+    </settings>
+</resources>

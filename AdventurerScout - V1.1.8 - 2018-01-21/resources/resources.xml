@@ -1,0 +1,11 @@
+<resources>
+    <fonts>
+        <font id="digital_font" filename="fonts/digital.fnt"/>        
+        <font id="digital5S_font" filename="fonts/digital5S.fnt"/>
+        <font id="digitalsmall_font" filename="fonts/digitalsmall.fnt"/>                 
+        <font id="logo_font" filename="fonts/logofont.fnt" filter="VESUIO" />
+        <font id="logodate_font" filename="fonts/logodatefont.fnt" filter="2017" />
+        <font id="name_font" filename="fonts/name.fnt" filter="SCOUT" />
+    
+    </fonts>
+</resources>

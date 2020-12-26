@@ -1,0 +1,159 @@
+<resources>
+
+    <properties>
+     
+		<property id="handtipcolor_prop" type="number">1000</property>
+		<property id="hashcolor_prop" type="number">1003</property>
+		<property id="sechandcolor_prop" type="number">1010</property>	
+		<property id="cals_prop" type="number">2500</property>
+		<property id="dispbatt_prop" type="boolean">true</property>		
+		<property id="dispstep_prop" type="boolean">true</property>
+		<property id="dispcals_prop" type="boolean">true</property>
+		<property id="digitop_prop" type="number">1</property>
+		<property id="digibottom_prop" type="number">2</property>
+		<property id="timeoffset_prop" type="number">0</property>
+		
+    </properties>
+
+
+
+    <strings>
+
+		<string id="handtipcolor_title">Select hand tip color (default yellow)</string>
+		<string id="hashcolor_title">Select hash mark color (default dark gray)</string>
+		<string id="sechandcolor_title">Select second hand color (default dark red)</string>		
+		<string id="cals_title">Enter goal for calories burned each day (kCals)</string>
+		<string id="dispbatt_title">Show battery remaining arc (red)?</string>
+		<string id="dispstep_title">Show % of steps completed arc (green)?</string>		
+		<string id="dispcals_title">Show % of calories burned arc (yellow)?</string>
+		<string id="digitop_title">Select data to display in top digital display</string>				
+		<string id="digibottom_title">Select data to display in top digital display</string>				
+		<string id="timeoffset_title">Time offset for digital display</string>				
+		<string id="yellow_title">Yellow</string>
+		<string id="white_title">White</string>	
+		<string id="ltgray_title">Light Gray</string>				
+		<string id="dkgray_title">Dark Gray</string>
+		<string id="black_title">Black</string>				
+		<string id="blue_title">Blue</string>
+		<string id="dkblue_title">Dark Blue</string>				
+		<string id="green_title">Green</string>				
+		<string id="dkgreen_title">Dark Green</string>				
+		<string id="red_title">Red</string>				
+		<string id="dkred_title">Dark Red</string>				
+		<string id="orange_title">Orange</string>				
+		<string id="purple_title">Purple</string>				
+		<string id="pink_title">Pink</string>
+
+		<string id="datadate_title">Day of Week and Calendar Day</string>
+		<string id="datatime_title">Time (with offset)</string>
+		<string id="databattery_title">Battery statistics</string>
+		<string id="datastepcal_title">Steps and kCals burned</string>
+		<string id="datanone_title">No digital display</string>
+						
+
+    </strings>
+
+
+
+    <settings>
+   
+		<setting propertyKey="@Properties.handtipcolor_prop" title="@Strings.handtipcolor_title">
+            <settingConfig type="list">
+            	<listEntry value="1000">@Strings.yellow_title</listEntry>
+            	<listEntry value="1001">@Strings.white_title</listEntry>      
+            	<listEntry value="1002">@Strings.ltgray_title</listEntry>
+            	<listEntry value="1003">@Strings.dkgray_title</listEntry>
+            	<listEntry value="1004">@Strings.black_title</listEntry>
+            	<listEntry value="1005">@Strings.blue_title</listEntry>
+            	<listEntry value="1006">@Strings.dkblue_title</listEntry>
+            	<listEntry value="1007">@Strings.green_title</listEntry>
+            	<listEntry value="1008">@Strings.dkgreen_title</listEntry>
+            	<listEntry value="1009">@Strings.red_title</listEntry>
+            	<listEntry value="1010">@Strings.dkred_title</listEntry>
+            	<listEntry value="1011">@Strings.orange_title</listEntry>
+            	<listEntry value="1012">@Strings.purple_title</listEntry>
+            	<listEntry value="1013">@Strings.pink_title</listEntry>
+            </settingConfig>
+        </setting>
+
+		<setting propertyKey="@Properties.hashcolor_prop" title="@Strings.hashcolor_title">
+            <settingConfig type="list">
+            	<listEntry value="1003">@Strings.dkgray_title</listEntry>
+            	<listEntry value="1000">@Strings.yellow_title</listEntry>
+            	<listEntry value="1001">@Strings.white_title</listEntry>      
+            	<listEntry value="1002">@Strings.ltgray_title</listEntry>
+            	<listEntry value="1004">@Strings.black_title</listEntry>
+            	<listEntry value="1005">@Strings.blue_title</listEntry>
+            	<listEntry value="1006">@Strings.dkblue_title</listEntry>
+            	<listEntry value="1007">@Strings.green_title</listEntry>
+            	<listEntry value="1008">@Strings.dkgreen_title</listEntry>
+            	<listEntry value="1009">@Strings.red_title</listEntry>
+            	<listEntry value="1010">@Strings.dkred_title</listEntry>
+            	<listEntry value="1011">@Strings.orange_title</listEntry>
+            	<listEntry value="1012">@Strings.purple_title</listEntry>
+            	<listEntry value="1013">@Strings.pink_title</listEntry>         	
+            </settingConfig>
+        </setting>		
+
+		<setting propertyKey="@Properties.sechandcolor_prop" title="@Strings.sechandcolor_title">
+            <settingConfig type="list">
+            	<listEntry value="1010">@Strings.dkred_title</listEntry>
+            	<listEntry value="1000">@Strings.yellow_title</listEntry>
+            	<listEntry value="1002">@Strings.ltgray_title</listEntry>
+            	<listEntry value="1003">@Strings.dkgray_title</listEntry>
+            	<listEntry value="1004">@Strings.black_title</listEntry>
+            	<listEntry value="1005">@Strings.blue_title</listEntry>
+            	<listEntry value="1006">@Strings.dkblue_title</listEntry>
+            	<listEntry value="1007">@Strings.green_title</listEntry>
+            	<listEntry value="1008">@Strings.dkgreen_title</listEntry>
+            	<listEntry value="1009">@Strings.red_title</listEntry>
+            	<listEntry value="1011">@Strings.orange_title</listEntry>
+            	<listEntry value="1012">@Strings.purple_title</listEntry>
+            	<listEntry value="1013">@Strings.pink_title</listEntry>         	
+            </settingConfig>
+        </setting>	
+
+        <setting propertyKey="@Properties.cals_prop" title="@Strings.cals_title">
+            <settingConfig type="numeric" />
+        </setting>
+
+        <setting propertyKey="@Properties.dispbatt_prop" title="@Strings.dispbatt_title">
+            <settingConfig type="boolean" />
+        </setting>
+
+        <setting propertyKey="@Properties.dispstep_prop" title="@Strings.dispstep_title">
+            <settingConfig type="boolean" />
+        </setting>
+
+        <setting propertyKey="@Properties.dispcals_prop" title="@Strings.dispcals_title">
+            <settingConfig type="boolean" />
+        </setting>
+
+
+		<setting propertyKey="@Properties.digitop_prop" title="@Strings.digitop_title">
+            <settingConfig type="list">
+            	<listEntry value="1">@Strings.datadate_title</listEntry>
+            	<listEntry value="2">@Strings.datatime_title</listEntry>
+            	<listEntry value="3">@Strings.databattery_title</listEntry>
+            	<listEntry value="4">@Strings.datastepcal_title</listEntry>
+            	<listEntry value="0">@Strings.datanone_title</listEntry>
+            </settingConfig>
+        </setting>	
+
+		<setting propertyKey="@Properties.digibottom_prop" title="@Strings.digibottom_title">
+            <settingConfig type="list">
+            	<listEntry value="2">@Strings.datatime_title</listEntry>
+            	<listEntry value="1">@Strings.datadate_title</listEntry>
+            	<listEntry value="3">@Strings.databattery_title</listEntry>
+            	<listEntry value="4">@Strings.datastepcal_title</listEntry>
+            	<listEntry value="0">@Strings.datanone_title</listEntry>
+            </settingConfig>
+        </setting>	
+
+        <setting propertyKey="@Properties.timeoffset_prop" title="@Strings.timeoffset_title">
+            <settingConfig type="numeric" />
+        </setting>            
+                
+    </settings>
+
+</resources>

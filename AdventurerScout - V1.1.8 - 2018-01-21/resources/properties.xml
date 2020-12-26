@@ -1,0 +1,69 @@
+<resources>
+
+    <properties>
+		<property id="theme_prop" type="number">1</property>
+		<property id="cals_prop" type="number">2500</property>
+		<property id="digital_prop" type="number">1</property>
+		<property id="timeoffset_prop" type="number">0</property>
+    </properties>
+
+
+
+    <strings>
+		<string id="theme_title">Please select theme</string>
+		<string id="cals_title">Enter goal for calories burned each day (kCals)</string>
+		<string id="digital_title">Select data to display in top digital display</string>				
+		<string id="timeoffset_title">Time offset for digital display</string>	
+		<string id="theme1_title">Yellow</string>
+		<string id="theme2_title">White</string>					
+		<string id="theme3_title">Black with Blue Digital</string>		
+		<string id="theme4_title">Black with Standard Digital</string>		
+		<string id="theme7_title">Black - low light visibility</string>
+		<string id="theme5_title">Orange</string>	
+		<string id="theme6_title">Dark Green</string>
+		<string id="time_title">Time (with offset) and Date</string>
+		<string id="altitude_title">Altitude and Battery Remaining</string>
+		<string id="heartrate_title">Heart Rate and Battery Remaining</string>
+		<string id="step_title">Steps and Goal %</string>
+		<string id="cal_title">kCals and Goal %</string>		
+		<string id="battdate_title">Battery Remaining and Date</string>		
+    </strings>
+
+
+
+    <settings>
+
+		<setting propertyKey="@Properties.theme_prop" title="@Strings.theme_title">
+            <settingConfig type="list">
+            	<listEntry value="1">@Strings.theme1_title</listEntry>
+            	<listEntry value="5">@Strings.theme5_title</listEntry> 
+            	<listEntry value="6">@Strings.theme6_title</listEntry> 
+            	<listEntry value="2">@Strings.theme2_title</listEntry>
+            	<listEntry value="4">@Strings.theme4_title</listEntry> 
+            	<listEntry value="7">@Strings.theme7_title</listEntry>            	
+            	<listEntry value="3">@Strings.theme3_title</listEntry>
+            </settingConfig>
+        </setting>	
+
+		<setting propertyKey="@Properties.digital_prop" title="@Strings.digital_title">
+            <settingConfig type="list">
+            	<listEntry value="1">@Strings.time_title</listEntry>
+            	<listEntry value="2">@Strings.altitude_title</listEntry>
+            	<listEntry value="6">@Strings.heartrate_title</listEntry>            	
+            	<listEntry value="3">@Strings.step_title</listEntry>
+            	<listEntry value="4">@Strings.cal_title</listEntry>
+            	<listEntry value="5">@Strings.battdate_title</listEntry>             	            	
+            </settingConfig>
+        </setting>	
+
+        <setting propertyKey="@Properties.timeoffset_prop" title="@Strings.timeoffset_title">
+            <settingConfig type="numeric" />
+        </setting>            
+
+        <setting propertyKey="@Properties.cals_prop" title="@Strings.cals_title">
+            <settingConfig type="numeric" />
+        </setting>
+                        
+    </settings>
+
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <fonts>
+        <font id="proan_font" filename="fonts/proan_font.fnt" filter="0123456789batsepFEG% " />
+    </fonts>
+</resources>

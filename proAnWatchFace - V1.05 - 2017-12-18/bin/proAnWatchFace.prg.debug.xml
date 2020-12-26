@@ -1,0 +1,807 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceApp.mc" lineNum="6" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceApp.mc" lineNum="7" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceApp.mc" lineNum="11" pc="268435479" symbol="onStart"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceApp.mc" lineNum="15" pc="268435484" symbol="onStop"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceApp.mc" lineNum="19" pc="268435489" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceApp.mc" lineNum="20" pc="268435493" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceDelegate.mc" lineNum="5" pc="268435561" symbol="initialize"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceDelegate.mc" lineNum="6" pc="268435565" symbol="initialize"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceDelegate.mc" lineNum="9" pc="268435584" symbol="onMenu"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceDelegate.mc" lineNum="12" pc="268435589" symbol="onStop"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceDelegate.mc" lineNum="17" pc="268435594" symbol="onNextPage"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceDelegate.mc" lineNum="22" pc="268435599" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceDelegate.mc" lineNum="27" pc="268435604" symbol="onSelect"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceDelegate.mc" lineNum="28" pc="268435608" symbol="onSelect"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="91" pc="268435635" symbol="initialize"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="92" pc="268435639" symbol="initialize"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="95" pc="268435657" symbol="initialize"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="96" pc="268435670" symbol="initialize"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="97" pc="268435704" symbol="initialize"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="98" pc="268435748" symbol="initialize"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="102" pc="268435779" symbol="initialize"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="103" pc="268435802" symbol="initialize"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="104" pc="268435831" symbol="initialize"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="105" pc="268435844" symbol="initialize"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="116" pc="268435858" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="118" pc="268435862" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="119" pc="268435881" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="120" pc="268435900" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="121" pc="268435922" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="122" pc="268435944" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="123" pc="268435973" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="124" pc="268436016" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="125" pc="268436059" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="126" pc="268436102" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="127" pc="268436145" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="131" pc="268436188" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="132" pc="268436208" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="133" pc="268436221" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="134" pc="268436234" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="135" pc="268436247" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="136" pc="268436264" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="137" pc="268436280" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="138" pc="268436300" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="139" pc="268436322" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="140" pc="268436344" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="141" pc="268436360" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="142" pc="268436377" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="143" pc="268436393" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="144" pc="268436413" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="145" pc="268436435" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="146" pc="268436457" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="148" pc="268436473" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="149" pc="268436489" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="150" pc="268436509" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="151" pc="268436531" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="152" pc="268436553" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="154" pc="268436566" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="164" pc="268436581" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="166" pc="268436585" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="167" pc="268436602" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="169" pc="268436625" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="170" pc="268436662" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="171" pc="268436690" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="188" pc="268436703" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="189" pc="268436740" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="190" pc="268436777" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="191" pc="268436814" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="192" pc="268436851" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="193" pc="268436888" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="194" pc="268436925" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="195" pc="268436962" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="196" pc="268436999" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="199" pc="268437036" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="200" pc="268437056" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="201" pc="268437076" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="202" pc="268437096" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="203" pc="268437116" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="204" pc="268437136" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="205" pc="268437156" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="207" pc="268437179" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="208" pc="268437199" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="209" pc="268437219" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="210" pc="268437239" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="211" pc="268437259" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="212" pc="268437279" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="214" pc="268437299" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="215" pc="268437319" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="219" pc="268437342" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="220" pc="268437392" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="221" pc="268437409" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="222" pc="268437438" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="223" pc="268437448" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="224" pc="268437458" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="225" pc="268437468" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="228" pc="268437478" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="229" pc="268437495" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="230" pc="268437520" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="231" pc="268437523" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="232" pc="268437526" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="233" pc="268437529" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="236" pc="268437532" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="237" pc="268437542" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="238" pc="268437571" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="239" pc="268437594" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="240" pc="268437638" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="241" pc="268437654" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="242" pc="268437664" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="243" pc="268437674" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="244" pc="268437690" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="245" pc="268437700" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="246" pc="268437710" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="247" pc="268437717" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="248" pc="268437724" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="253" pc="268437731" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="254" pc="268437759" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="255" pc="268437771" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="260" pc="268437785" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="261" pc="268437797" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="262" pc="268437811" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="263" pc="268437836" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="264" pc="268437870" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="265" pc="268437896" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="266" pc="268437928" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="267" pc="268437971" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="268" pc="268438014" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="274" pc="268438075" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="275" pc="268438082" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="276" pc="268438108" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="279" pc="268438226" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="280" pc="268438245" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="282" pc="268438294" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="283" pc="268438326" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="284" pc="268438388" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="285" pc="268438399" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="286" pc="268438427" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="288" pc="268438495" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="289" pc="268438523" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="294" pc="268438579" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="295" pc="268438622" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="297" pc="268438643" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="298" pc="268438663" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="299" pc="268438675" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="300" pc="268438685" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="302" pc="268438698" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="303" pc="268438708" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="305" pc="268438718" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="306" pc="268438729" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="308" pc="268438804" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="309" pc="268438815" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="318" pc="268438887" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="319" pc="268438919" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="321" pc="268439006" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="322" pc="268439038" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="323" pc="268439107" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="324" pc="268439139" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="328" pc="268439232" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="329" pc="268439264" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="331" pc="268439351" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="332" pc="268439383" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="333" pc="268439452" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="334" pc="268439484" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="337" pc="268439577" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="338" pc="268439609" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="339" pc="268439642" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="340" pc="268439678" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="343" pc="268439711" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="344" pc="268439743" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="347" pc="268439812" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="348" pc="268439848" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="349" pc="268439881" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="350" pc="268439917" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="351" pc="268439950" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="352" pc="268439986" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="358" pc="268440019" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="359" pc="268440036" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="360" pc="268440043" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="361" pc="268440056" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="362" pc="268440078" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="363" pc="268440091" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="364" pc="268440098" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="366" pc="268440120" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="367" pc="268440163" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="368" pc="268440174" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="369" pc="268440190" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="370" pc="268440206" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="371" pc="268440213" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="372" pc="268440249" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="373" pc="268440293" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="374" pc="268440329" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="375" pc="268440339" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="376" pc="268440349" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="377" pc="268440419" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="378" pc="268440426" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="379" pc="268440490" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="380" pc="268440497" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="381" pc="268440541" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="382" pc="268440548" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="383" pc="268440598" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="384" pc="268440605" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="385" pc="268440675" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="386" pc="268440682" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="387" pc="268440732" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="388" pc="268440739" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="389" pc="268440803" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="390" pc="268440810" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="391" pc="268440817" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="393" pc="268440878" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="394" pc="268440891" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="396" pc="268440941" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="415" pc="268440961" symbol="generateHandCoordinates"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="417" pc="268440965" symbol="generateHandCoordinates"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="418" pc="268441157" symbol="generateHandCoordinates"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="419" pc="268441165" symbol="generateHandCoordinates"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="420" pc="268441184" symbol="generateHandCoordinates"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="423" pc="268441203" symbol="generateHandCoordinates"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="424" pc="268441221" symbol="generateHandCoordinates"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="425" pc="268441258" symbol="generateHandCoordinates"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="427" pc="268441295" symbol="generateHandCoordinates"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="430" pc="268441357" symbol="generateHandCoordinates"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="441" pc="268441361" symbol="generateDialHandCoordinates"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="443" pc="268441365" symbol="generateDialHandCoordinates"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="444" pc="268441551" symbol="generateDialHandCoordinates"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="445" pc="268441559" symbol="generateDialHandCoordinates"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="446" pc="268441578" symbol="generateDialHandCoordinates"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="449" pc="268441597" symbol="generateDialHandCoordinates"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="450" pc="268441615" symbol="generateDialHandCoordinates"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="451" pc="268441652" symbol="generateDialHandCoordinates"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="453" pc="268441689" symbol="generateDialHandCoordinates"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="456" pc="268441751" symbol="generateDialHandCoordinates"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="466" pc="268441755" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="468" pc="268441759" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="469" pc="268441787" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="474" pc="268441804" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="475" pc="268441830" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="476" pc="268441830" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="477" pc="268441830" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="478" pc="268441840" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="481" pc="268441843" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="482" pc="268441861" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="483" pc="268441887" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="484" pc="268441905" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="485" pc="268441928" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="486" pc="268441998" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="487" pc="268442026" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="488" pc="268442043" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="490" pc="268442056" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="491" pc="268442084" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="492" pc="268442101" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="494" pc="268442111" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="495" pc="268442128" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="496" pc="268442153" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="497" pc="268442178" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="498" pc="268442203" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="499" pc="268442228" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="502" pc="268442254" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="503" pc="268442266" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="510" pc="268442292" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="511" pc="268442303" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="512" pc="268442310" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="513" pc="268442326" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="514" pc="268442358" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="515" pc="268442372" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="516" pc="268442413" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="517" pc="268442454" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="518" pc="268442507" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="519" pc="268442560" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="520" pc="268442601" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="521" pc="268442642" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="537" pc="268442665" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="538" pc="268442675" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="539" pc="268442695" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="543" pc="268442708" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="544" pc="268442725" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="545" pc="268442757" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="546" pc="268442775" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="547" pc="268442798" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="548" pc="268442836" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="556" pc="268442950" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="557" pc="268442982" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="558" pc="268442999" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="561" pc="268443035" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="562" pc="268443052" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="563" pc="268443084" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="564" pc="268443102" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="565" pc="268443125" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="566" pc="268443163" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="574" pc="268443277" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="575" pc="268443309" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="576" pc="268443326" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="579" pc="268443362" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="580" pc="268443373" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="581" pc="268443380" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="582" pc="268443412" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="583" pc="268443426" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="584" pc="268443470" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="585" pc="268443514" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="586" pc="268443570" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="587" pc="268443626" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="588" pc="268443670" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="589" pc="268443714" symbol="drawTicMarks"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="603" pc="268443735" symbol="drawStatArcs"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="605" pc="268443739" symbol="drawStatArcs"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="606" pc="268443746" symbol="drawStatArcs"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="607" pc="268443756" symbol="drawStatArcs"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="610" pc="268443759" symbol="drawStatArcs"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="611" pc="268443791" symbol="drawStatArcs"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="612" pc="268443812" symbol="drawStatArcs"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="614" pc="268443870" symbol="drawStatArcs"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="615" pc="268443902" symbol="drawStatArcs"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="616" pc="268443917" symbol="drawStatArcs"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="620" pc="268443963" symbol="drawStatArcs"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="621" pc="268443974" symbol="drawStatArcs"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="623" pc="268443987" symbol="drawStatArcs"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="625" pc="268443994" symbol="drawStatArcs"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="626" pc="268444020" symbol="drawStatArcs"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="627" pc="268444031" symbol="drawStatArcs"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="628" pc="268444046" symbol="drawStatArcs"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="641" pc="268444099" symbol="drawStatGauges"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="643" pc="268444103" symbol="drawStatGauges"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="644" pc="268444119" symbol="drawStatGauges"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="645" pc="268444141" symbol="drawStatGauges"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="646" pc="268444144" symbol="drawStatGauges"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="647" pc="268444147" symbol="drawStatGauges"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="648" pc="268444150" symbol="drawStatGauges"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="649" pc="268444153" symbol="drawStatGauges"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="650" pc="268444156" symbol="drawStatGauges"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="653" pc="268444159" symbol="drawStatGauges"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="654" pc="268444182" symbol="drawStatGauges"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="655" pc="268444192" symbol="drawStatGauges"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="656" pc="268444204" symbol="drawStatGauges"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="657" pc="268444215" symbol="drawStatGauges"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="658" pc="268444219" symbol="drawStatGauges"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="659" pc="268444229" symbol="drawStatGauges"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="661" pc="268444239" symbol="drawStatGauges"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="662" pc="268444250" symbol="drawStatGauges"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="663" pc="268444254" symbol="drawStatGauges"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="664" pc="268444264" symbol="drawStatGauges"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="667" pc="268444277" symbol="drawStatGauges"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="668" pc="268444288" symbol="drawStatGauges"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="669" pc="268444292" symbol="drawStatGauges"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="670" pc="268444302" symbol="drawStatGauges"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="672" pc="268444312" symbol="drawStatGauges"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="673" pc="268444323" symbol="drawStatGauges"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="674" pc="268444327" symbol="drawStatGauges"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="675" pc="268444337" symbol="drawStatGauges"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="680" pc="268444347" symbol="drawStatGauges"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="681" pc="268444364" symbol="drawStatGauges"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="682" pc="268444371" symbol="drawStatGauges"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="685" pc="268444390" symbol="drawStatGauges"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="686" pc="268444397" symbol="drawStatGauges"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="688" pc="268444439" symbol="drawStatGauges"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="689" pc="268444446" symbol="drawStatGauges"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="700" pc="268444489" symbol="drawGauge"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="701" pc="268444493" symbol="drawGauge"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="702" pc="268444500" symbol="drawGauge"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="703" pc="268444507" symbol="drawGauge"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="704" pc="268444514" symbol="drawGauge"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="705" pc="268444557" symbol="drawGauge"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="706" pc="268444600" symbol="drawGauge"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="707" pc="268444603" symbol="drawGauge"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="708" pc="268444606" symbol="drawGauge"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="709" pc="268444609" symbol="drawGauge"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="710" pc="268444612" symbol="drawGauge"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="711" pc="268444615" symbol="drawGauge"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="712" pc="268444618" symbol="drawGauge"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="713" pc="268444621" symbol="drawGauge"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="714" pc="268444624" symbol="drawGauge"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="715" pc="268444631" symbol="drawGauge"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="718" pc="268444638" symbol="drawGauge"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="719" pc="268444666" symbol="drawGauge"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="720" pc="268444673" symbol="drawGauge"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="722" pc="268444683" symbol="drawGauge"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="723" pc="268444690" symbol="drawGauge"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="726" pc="268444697" symbol="drawGauge"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="727" pc="268444717" symbol="drawGauge"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="728" pc="268444731" symbol="drawGauge"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="729" pc="268444780" symbol="drawGauge"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="730" pc="268444794" symbol="drawGauge"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="731" pc="268444808" symbol="drawGauge"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="733" pc="268444825" symbol="drawGauge"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="734" pc="268444845" symbol="drawGauge"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="735" pc="268444859" symbol="drawGauge"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="736" pc="268444908" symbol="drawGauge"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="737" pc="268444922" symbol="drawGauge"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="738" pc="268444936" symbol="drawGauge"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="741" pc="268444953" symbol="drawGauge"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="742" pc="268444965" symbol="drawGauge"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="745" pc="268444972" symbol="drawGauge"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="746" pc="268444998" symbol="drawGauge"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="747" pc="268445015" symbol="drawGauge"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="748" pc="268445033" symbol="drawGauge"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="751" pc="268445050" symbol="drawGauge"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="752" pc="268445076" symbol="drawGauge"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="753" pc="268445093" symbol="drawGauge"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="754" pc="268445111" symbol="drawGauge"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="757" pc="268445128" symbol="drawGauge"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="758" pc="268445154" symbol="drawGauge"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="759" pc="268445218" symbol="drawGauge"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="760" pc="268445244" symbol="drawGauge"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="761" pc="268445311" symbol="drawGauge"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="762" pc="268445384" symbol="drawGauge"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="763" pc="268445457" symbol="drawGauge"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="764" pc="268445530" symbol="drawGauge"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="767" pc="268445603" symbol="drawGauge"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="768" pc="268445629" symbol="drawGauge"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="769" pc="268445665" symbol="drawGauge"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="770" pc="268445701" symbol="drawGauge"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="771" pc="268445737" symbol="drawGauge"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="774" pc="268445773" symbol="drawGauge"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="775" pc="268445786" symbol="drawGauge"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="776" pc="268445812" symbol="drawGauge"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="777" pc="268445830" symbol="drawGauge"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="778" pc="268445891" symbol="drawGauge"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="779" pc="268445917" symbol="drawGauge"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="787" pc="268445939" symbol="onShow"/>
+<entry filename="C:\\Users\\Tony\\eclipse-workspace\\proAnWatchFace\\.\\source\\proAnWatchFaceView.mc" lineNum="793" pc="268445944" symbol="onHide"/>
+<entry filename="Rez" lineNum="42" pc="268445949" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="46" pc="268445961" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="47" pc="268446124" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="48" pc="268446149" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="49" pc="268446201" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="52" pc="268446247" symbol="WatchFace"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="50" symbol="arcEnd"/>
+<entry field="true" id="24" symbol="licensedApp"/>
+<entry field="true" id="14" symbol="appStore_showBattGauge"/>
+<entry field="true" id="77" symbol="proan_digital_font"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry field="true" id="51" symbol="arcRad"/>
+<entry field="true" id="64" symbol="appBattStartValue"/>
+<entry field="true" id="60" symbol="num2Font"/>
+<entry field="true" id="20" symbol="appStore_showTicks"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388645" module="true" symbol="Time"/>
+<entry id="71" method="true" symbol="drawStatGauges"/>
+<entry field="true" id="21" symbol="appStore_secondType"/>
+<entry id="69" method="true" symbol="drawTicMarks"/>
+<entry id="70" method="true" symbol="drawStatArcs"/>
+<entry id="8389619" method="true" symbol="onSelect"/>
+<entry field="true" id="19" symbol="appStore_showFullDay"/>
+<entry field="true" id="44" symbol="c_battFill"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry field="true" id="79" symbol="proan_num_font"/>
+<entry field="true" id="63" symbol="appStartTimer"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry field="true" id="87" symbol="gaugenone"/>
+<entry field="true" id="30" symbol="F3HR"/>
+<entry field="true" id="78" symbol="proan_digitalsmall_font"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry field="true" id="11" symbol="buttonSelect"/>
+<entry field="true" id="29" symbol="F5"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry field="true" id="53" symbol="outGauge_x"/>
+<entry field="true" id="26" symbol="mid_y"/>
+<entry field="true" id="25" symbol="mid_x"/>
+<entry field="true" id="8389245" symbol="deviceType"/>
+<entry field="true" id="56" symbol="smallFont"/>
+<entry field="true" id="66" symbol="appRefreshCounter"/>
+<entry field="true" id="84" symbol="BlackTheme"/>
+<entry field="true" id="61" symbol="mUpdateTimer"/>
+<entry field="true" id="36" symbol="secNone"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="92" symbol="AppName"/>
+<entry field="true" id="41" symbol="c_screen"/>
+<entry field="true" id="95" symbol="gaugetype_title"/>
+<entry field="true" id="47" symbol="arcDir"/>
+<entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+<entry id="9" object="true" symbol="proAnWatchFaceApp"/>
+<entry field="true" id="48" symbol="arcWidth"/>
+<entry field="true" id="94" symbol="WhiteTheme"/>
+<entry id="8389080" method="true" symbol="onMenu"/>
+<entry field="true" id="80" symbol="proan_num2_font"/>
+<entry id="8389078" method="true" symbol="onNextPage"/>
+<entry field="true" id="18" symbol="appStore_gaugeHandPlain"/>
+<entry field="true" id="15" symbol="appStore_showStepGauge"/>
+<entry id="8388641" module="true" symbol="Math"/>
+<entry field="true" id="75" symbol="LauncherIcon"/>
+<entry field="true" id="62" symbol="refreshInterval"/>
+<entry field="true" id="27" symbol="mainFont"/>
+<entry id="8388646" module="true" object="true" symbol="Timer"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="49" symbol="arcStart"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry field="true" id="83" symbol="sec_title"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389026" method="true" symbol="requestUpdate"/>
+<entry field="true" id="16" symbol="appStore_switchGauges"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="57" symbol="digitalFont"/>
+<entry field="true" id="8389670" symbol="screenShape"/>
+<entry field="true" id="76" symbol="proan_font"/>
+<entry id="8389348" symbol="font"/>
+<entry field="true" id="45" symbol="c_stepFill"/>
+<entry field="true" id="40" symbol="gaugeNone"/>
+<entry id="8389347" symbol="color"/>
+<entry field="true" id="97" symbol="gaugedialw"/>
+<entry id="72" method="true" symbol="drawGauge"/>
+<entry field="true" id="54" symbol="dcW"/>
+<entry field="true" id="86" symbol="gaugedialb"/>
+<entry field="true" id="55" symbol="dcH"/>
+<entry field="true" id="32" symbol="schemeWhite"/>
+<entry field="true" id="89" symbol="gaugehand_title"/>
+<entry field="true" id="13" symbol="appStore_schemeTheme"/>
+<entry field="true" id="31" symbol="FR235"/>
+<entry field="true" id="85" symbol="switch_title"/>
+<entry field="true" id="42" symbol="c_primary"/>
+<entry field="true" id="90" symbol="battery_title"/>
+<entry field="true" id="33" symbol="schemeBlack"/>
+<entry field="true" id="59" symbol="numFont"/>
+<entry id="74" module="true" symbol="Layouts"/>
+<entry field="true" id="52" symbol="inGauge_x"/>
+<entry id="68" method="true" symbol="generateDialHandCoordinates"/>
+<entry id="8389079" method="true" symbol="onPreviousPage"/>
+<entry field="true" id="46" symbol="c_secHand"/>
+<entry field="true" id="88" symbol="fullday_title"/>
+<entry field="true" id="58" symbol="digSmallFont"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry field="true" id="91" symbol="gaugearc"/>
+<entry field="true" id="37" symbol="gaugeArc"/>
+<entry field="true" id="38" symbol="gaugeDialW"/>
+<entry field="true" id="39" symbol="gaugeDialB"/>
+<entry id="12" object="true" symbol="proAnWatchFaceView"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry id="10" object="true" symbol="proAnWatchFaceDelegate"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry field="true" id="28" symbol="LICENSE"/>
+<entry id="67" method="true" symbol="generateHandCoordinates"/>
+<entry field="true" id="96" symbol="ticks_title"/>
+<entry field="true" id="93" symbol="license_title"/>
+<entry field="true" id="35" symbol="secRed"/>
+<entry id="73" module="true" symbol="Menus"/>
+<entry field="true" id="23" symbol="fast_updates"/>
+<entry field="true" id="34" symbol="secStandard"/>
+<entry field="true" id="22" symbol="appStore_license"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry field="true" id="17" symbol="appStore_gaugeType"/>
+<entry field="true" id="43" symbol="c_shade"/>
+<entry field="true" id="82" symbol="steps_title"/>
+<entry id="8388633" module="true" symbol="ActivityMonitor"/>
+<entry field="true" id="65" symbol="appAvgLatency"/>
+<entry field="true" id="81" symbol="scheme_title"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435484" name="state" stackId="1" startPc="268435479"/>
+<entry endPc="268435489" name="state" stackId="1" startPc="268435484"/>
+<entry endPc="268436581" name="dc" stackId="1" startPc="268435858"/>
+<entry endPc="268438072" name="xOffNine" stackId="33" startPc="268437797"/>
+<entry endPc="268438072" name="yOffTop" stackId="31" startPc="268437797"/>
+<entry endPc="268438072" name="numFont" stackId="30" startPc="268437797"/>
+<entry endPc="268438072" name="yOffBottom" stackId="32" startPc="268437797"/>
+<entry endPc="268440938" name="ty" stackId="47" startPc="268440174"/>
+<entry endPc="268440938" name="tx" stackId="46" startPc="268440174"/>
+<entry endPc="268440938" name="yinc" stackId="48" startPc="268440174"/>
+<entry endPc="268440960" name="h_backradius" stackId="25" startPc="268436585"/>
+<entry endPc="268440960" name="s_radius" stackId="21" startPc="268436585"/>
+<entry endPc="268440960" name="midStepArc_y" stackId="16" startPc="268436585"/>
+<entry endPc="268440960" name="midStepArc_x" stackId="14" startPc="268436585"/>
+<entry endPc="268440960" name="battRemaining" stackId="45" startPc="268436585"/>
+<entry endPc="268440960" name="battPerHr" stackId="44" startPc="268436585"/>
+<entry endPc="268440960" name="h_radius" stackId="22" startPc="268436585"/>
+<entry endPc="268440960" name="dateString" stackId="4" startPc="268436585"/>
+<entry endPc="268440960" name="dateBorder" stackId="34" startPc="268436585"/>
+<entry endPc="268440960" name="minute" stackId="9" startPc="268436585"/>
+<entry endPc="268440960" name="dayOfWeek" stackId="6" startPc="268436585"/>
+<entry endPc="268440960" name="h_width" stackId="27" startPc="268436585"/>
+<entry endPc="268440960" name="timeRunHrs" stackId="42" startPc="268436585"/>
+<entry endPc="268440960" name="m_width" stackId="28" startPc="268436585"/>
+<entry endPc="268440960" name="s_width" stackId="29" startPc="268436585"/>
+<entry endPc="268440960" name="timeRunning" stackId="41" startPc="268436585"/>
+<entry endPc="268440960" name="h_fraction" stackId="17" startPc="268436585"/>
+<entry endPc="268440960" name="hour" stackId="8" startPc="268436585"/>
+<entry endPc="268440960" name="day" stackId="7" startPc="268436585"/>
+<entry endPc="268440960" name="midBattArc_y" stackId="15" startPc="268436585"/>
+<entry endPc="268440960" name="midBattArc_x" stackId="13" startPc="268436585"/>
+<entry endPc="268440960" name="stepInfo" stackId="11" startPc="268436585"/>
+<entry endPc="268440960" name="second" stackId="10" startPc="268436585"/>
+<entry endPc="268440960" name="m_radius" stackId="23" startPc="268436585"/>
+<entry endPc="268440960" name="timer" stackId="2" startPc="268436585"/>
+<entry endPc="268440960" name="battUsed" stackId="43" startPc="268436585"/>
+<entry endPc="268440960" name="stepPerc" stackId="12" startPc="268436585"/>
+<entry endPc="268440960" name="currLatency" stackId="40" startPc="268436585"/>
+<entry endPc="268440960" name="h_angle" stackId="20" startPc="268436585"/>
+<entry endPc="268440960" name="m_angle" stackId="19" startPc="268436585"/>
+<entry endPc="268440960" name="s_angle" stackId="18" startPc="268436585"/>
+<entry endPc="268440960" name="m_backradius" stackId="26" startPc="268436585"/>
+<entry endPc="268440960" name="y" stackId="38" startPc="268436585"/>
+<entry endPc="268440960" name="x" stackId="37" startPc="268436585"/>
+<entry endPc="268440960" name="dayPad" stackId="35" startPc="268436585"/>
+<entry endPc="268440960" name="now" stackId="5" startPc="268436585"/>
+<entry endPc="268440960" name="currTimer" stackId="39" startPc="268436585"/>
+<entry endPc="268440960" name="n" stackId="36" startPc="268436585"/>
+<entry endPc="268440960" name="s_backradius" stackId="24" startPc="268436585"/>
+<entry endPc="268440960" name="battery" stackId="3" startPc="268436585"/>
+<entry endPc="268440961" name="dc" stackId="1" startPc="268436581"/>
+<entry endPc="268441344" name="x" stackId="11" startPc="268441221"/>
+<entry endPc="268441344" name="y" stackId="12" startPc="268441221"/>
+<entry endPc="268441357" name="i" stackId="10" startPc="268441221"/>
+<entry endPc="268441360" name="result" stackId="7" startPc="268440965"/>
+<entry endPc="268441360" name="sin" stackId="9" startPc="268440965"/>
+<entry endPc="268441360" name="cos" stackId="8" startPc="268440965"/>
+<entry endPc="268441360" name="coords" stackId="6" startPc="268440965"/>
+<entry endPc="268441361" name="handLength" stackId="3" startPc="268440961"/>
+<entry endPc="268441361" name="tailLength" stackId="4" startPc="268440961"/>
+<entry endPc="268441361" name="width" stackId="5" startPc="268440961"/>
+<entry endPc="268441361" name="angle" stackId="2" startPc="268440961"/>
+<entry endPc="268441361" name="centerPoint" stackId="1" startPc="268440961"/>
+<entry endPc="268441738" name="x" stackId="10" startPc="268441615"/>
+<entry endPc="268441738" name="y" stackId="11" startPc="268441615"/>
+<entry endPc="268441751" name="i" stackId="9" startPc="268441615"/>
+<entry endPc="268441754" name="result" stackId="6" startPc="268441365"/>
+<entry endPc="268441754" name="sin" stackId="8" startPc="268441365"/>
+<entry endPc="268441754" name="cos" stackId="7" startPc="268441365"/>
+<entry endPc="268441754" name="coords" stackId="5" startPc="268441365"/>
+<entry endPc="268441755" name="width" stackId="4" startPc="268441361"/>
+<entry endPc="268441755" name="length" stackId="3" startPc="268441361"/>
+<entry endPc="268441755" name="angle" stackId="2" startPc="268441361"/>
+<entry endPc="268441755" name="centerPoint" stackId="1" startPc="268441361"/>
+<entry endPc="268442251" name="hashAngle" stackId="10" startPc="268441905"/>
+<entry endPc="268442279" name="test" stackId="9" startPc="268441861"/>
+<entry endPc="268442292" name="n" stackId="8" startPc="268441861"/>
+<entry endPc="268442659" name="penWidth" stackId="11" startPc="268442303"/>
+<entry endPc="268442659" name="tickLength" stackId="12" startPc="268442303"/>
+<entry endPc="268442662" name="eY" stackId="5" startPc="268441830"/>
+<entry endPc="268442662" name="outterRad" stackId="6" startPc="268441830"/>
+<entry endPc="268442662" name="eX" stackId="4" startPc="268441830"/>
+<entry endPc="268442662" name="innerRad" stackId="7" startPc="268441830"/>
+<entry endPc="268442662" name="sY" stackId="3" startPc="268441830"/>
+<entry endPc="268442662" name="sX" stackId="2" startPc="268441830"/>
+<entry endPc="268442937" name="hashAngle" stackId="15" startPc="268442775"/>
+<entry endPc="268442950" name="n" stackId="14" startPc="268442775"/>
+<entry endPc="268443264" name="hashAngle" stackId="17" startPc="268443102"/>
+<entry endPc="268443277" name="n" stackId="16" startPc="268443102"/>
+<entry endPc="268443731" name="penWidth" stackId="18" startPc="268443373"/>
+<entry endPc="268443734" name="hashRadius" stackId="13" startPc="268442665"/>
+<entry endPc="268443735" name="dc" stackId="1" startPc="268441755"/>
+<entry endPc="268444098" name="arcFull" stackId="10" startPc="268443739"/>
+<entry endPc="268444098" name="n" stackId="12" startPc="268443739"/>
+<entry endPc="268444098" name="y" stackId="11" startPc="268443739"/>
+<entry endPc="268444099" name="r" stackId="3" startPc="268443735"/>
+<entry endPc="268444099" name="start" stackId="7" startPc="268443735"/>
+<entry endPc="268444099" name="width" stackId="4" startPc="268443735"/>
+<entry endPc="268444099" name="dir" stackId="5" startPc="268443735"/>
+<entry endPc="268444099" name="metric" stackId="9" startPc="268443735"/>
+<entry endPc="268444099" name="color" stackId="6" startPc="268443735"/>
+<entry endPc="268444099" name="end" stackId="8" startPc="268443735"/>
+<entry endPc="268444099" name="x" stackId="2" startPc="268443735"/>
+<entry endPc="268444099" name="dc" stackId="1" startPc="268443735"/>
+<entry endPc="268444488" name="botMetric" stackId="7" startPc="268444103"/>
+<entry endPc="268444488" name="botFill" stackId="9" startPc="268444103"/>
+<entry endPc="268444488" name="topLabel" stackId="10" startPc="268444103"/>
+<entry endPc="268444488" name="x0" stackId="4" startPc="268444103"/>
+<entry endPc="268444488" name="topFill" stackId="8" startPc="268444103"/>
+<entry endPc="268444488" name="yOff" stackId="5" startPc="268444103"/>
+<entry endPc="268444488" name="botLabel" stackId="11" startPc="268444103"/>
+<entry endPc="268444488" name="topMetric" stackId="6" startPc="268444103"/>
+<entry endPc="268444489" name="dc" stackId="1" startPc="268444099"/>
+<entry endPc="268444489" name="bMetric" stackId="3" startPc="268444099"/>
+<entry endPc="268444489" name="sMetric" stackId="2" startPc="268444099"/>
+<entry endPc="268445938" name="colLabel" stackId="18" startPc="268444493"/>
+<entry endPc="268445938" name="colHand" stackId="17" startPc="268444493"/>
+<entry endPc="268445938" name="start" stackId="10" startPc="268444493"/>
+<entry endPc="268445938" name="label_yOff" stackId="20" startPc="268444493"/>
+<entry endPc="268445938" name="angle_adj" stackId="12" startPc="268444493"/>
+<entry endPc="268445938" name="end" stackId="11" startPc="268444493"/>
+<entry endPc="268445938" name="colFace" stackId="15" startPc="268444493"/>
+<entry endPc="268445938" name="label_xOff" stackId="21" startPc="268444493"/>
+<entry endPc="268445938" name="fullLabel" stackId="13" startPc="268444493"/>
+<entry endPc="268445938" name="dialRad" stackId="9" startPc="268444493"/>
+<entry endPc="268445938" name="len" stackId="8" startPc="268444493"/>
+<entry endPc="268445938" name="rad" stackId="7" startPc="268444493"/>
+<entry endPc="268445938" name="colMetric" stackId="19" startPc="268444493"/>
+<entry endPc="268445938" name="colOutline" stackId="16" startPc="268444493"/>
+<entry endPc="268445938" name="zeroLabel" stackId="14" startPc="268444493"/>
+<entry endPc="268445939" name="x" stackId="2" startPc="268444489"/>
+<entry endPc="268445939" name="dc" stackId="1" startPc="268444489"/>
+<entry endPc="268445939" name="metric" stackId="5" startPc="268444489"/>
+<entry endPc="268445939" name="label" stackId="4" startPc="268444489"/>
+<entry endPc="268445939" name="fill" stackId="6" startPc="268444489"/>
+<entry endPc="268445939" name="y" stackId="3" startPc="268444489"/>
+<entry endPc="268446264" name="rez_cmp_local_bitmap_TimeLabel" stackId="2" startPc="268445961"/>
+<entry endPc="268446264" name="rez_cmp_local_bitmap_TimeLabel_fontHeight" stackId="3" startPc="268445961"/>
+<entry endPc="268446265" name="dc" stackId="1" startPc="268445949"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="proAnWatchFaceApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="proAnWatchFaceApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="proAnWatchFaceApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="proAnWatchFaceApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="proAnWatchFaceDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMenu" parent="proAnWatchFaceDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="proAnWatchFaceDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onNextPage" parent="proAnWatchFaceDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onPreviousPage" parent="proAnWatchFaceDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSelect" parent="proAnWatchFaceDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="proAnWatchFaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="proAnWatchFaceView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="proAnWatchFaceView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="generateHandCoordinates" parent="proAnWatchFaceView">
+<param id="centerPoint"/>
+<param id="angle"/>
+<param id="handLength"/>
+<param id="tailLength"/>
+<param id="width"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="generateDialHandCoordinates" parent="proAnWatchFaceView">
+<param id="centerPoint"/>
+<param id="angle"/>
+<param id="length"/>
+<param id="width"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawTicMarks" parent="proAnWatchFaceView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawStatArcs" parent="proAnWatchFaceView">
+<param id="dc"/>
+<param id="x"/>
+<param id="r"/>
+<param id="width"/>
+<param id="dir"/>
+<param id="color"/>
+<param id="start"/>
+<param id="end"/>
+<param id="metric"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawStatGauges" parent="proAnWatchFaceView">
+<param id="dc"/>
+<param id="sMetric"/>
+<param id="bMetric"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawGauge" parent="proAnWatchFaceView">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="label"/>
+<param id="metric"/>
+<param id="fill"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="proAnWatchFaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="proAnWatchFaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="WatchFace" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="190" parentId="globals" symbolId="proAnWatchFaceView" type="class"/>
+<dataEntry offset="765" parentId="globals" symbolId="proAnWatchFaceApp" type="class"/>
+<dataEntry offset="836" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="915" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="954" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="985" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="1056" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="1087" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="1126" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="1317" parentId="globals" symbolId="proAnWatchFaceDelegate" type="class"/>
+</dataEntryOffsetMappings>
+</debugInfo>
